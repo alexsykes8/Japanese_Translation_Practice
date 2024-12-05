@@ -1,3 +1,6 @@
+![Status: Work in Progress](https://img.shields.io/badge/status-WIP-yellow)
+
+
 Welcome!
 
 This is a project that makes learning Japanese easier. By using public domain novels, you can search for sentences that contain a particular word and that match your JLPT level. 
