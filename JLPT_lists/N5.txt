@@ -1,0 +1,533 @@
+学校|school
+川|river, stream
+手|hand, arm
+眼鏡|glasses, eyeglasses, spectacles
+煙草|tobacco, cigarette, cigar
+赤|red, crimson, scarlet
+仕事|work, job, labor, labour, business, task, assignment, occupation, employment
+英語|English (language)
+問題|question (e.g. on a test), problem
+部屋|room, chamber
+子供|child, children
+時間|time
+雨|rain
+先生|teacher, instructor, master
+年|year
+手紙|letter, missive, note, mail
+電話|telephone call, phone call
+水|water (esp. cool, fresh water, e.g. drinking water)
+病気|illness (usu. excluding minor ailments, e.g. common cold), disease, sickness
+会社|company, corporation, firm
+上げる|to raise, to elevate
+結婚|marriage
+言葉|language, dialect
+目|eye, eyeball
+走る|to run
+名前|name
+旅行|travel, trip, journey, excursion, tour
+道|road, path, street, lane, passage
+飛行機|airplane, aeroplane, plane, aircraft
+映画|movie, film, motion picture
+音楽|music
+木|tree, shrub, bush
+大学|university, college
+時計|clock, watch, timepiece
+家族|family
+花|flower, blossom, bloom, petal
+猫|cat (esp. the domestic cat, Felis catus)
+毎日|every day
+宿題|homework, assignment
+雪|snow, snowfall
+山|mountain, hill
+窓|window
+動物|animal
+夜|evening, night
+料理|cooking, cookery, cuisine, meal, food, dish, item on a menu
+夏|summer
+新聞|newspaper
+公園|(public) park
+意味|meaning, significance, sense
+自転車|bicycle, bike
+足|foot, paw, arm (of an octopus, squid, etc.)
+電車|train, electric train
+散歩|walk, stroll
+声|voice
+朝|morning
+歌|song, singing
+靴|shoe, shoes, boots, footwear, footgear
+箱|box, case, chest, package, pack, crate
+机|desk
+帽子|hat, cap
+海|sea, ocean, waters
+授業|lesson, class, teaching, instruction, classwork, schoolwork
+銀行|bank, banking institution
+写真|photograph, photo, picture, snapshot, snap
+冬|winter
+村|village
+傘|umbrella, parasol
+口|mouth
+橋|bridge
+病院|"hospital, clinic, doctor's office, doctor's surgery, infirmary"
+図書館|library
+春|spring, springtime
+買い物|shopping, purchased goods
+椅子|chair, seat, stool, bench
+自動車|car, automobile, motorcar, motor vehicle, auto
+色|colour, color, hue, tint, tinge, shade
+卵|eggs, egg, spawn, roe
+肉|flesh
+風邪|(common) cold, influenza, flu, ague, inflammatory respiratory system illness (in general)
+掃除|cleaning, sweeping, dusting, scrubbing
+紙|paper
+鍵|key
+雑誌|journal, magazine, periodical
+切符|ticket
+外国人|foreigner, foreign citizen, foreign national, alien, non-Japanese
+財布|wallet, purse, coin purse, billfold, pocketbook
+鉛筆|pencil
+大人|adult, grown-up
+塩|salt, common salt, table salt, sodium chloride
+地図|map, atlas, chart, plan
+砂糖|sugar
+夏休み|summer vacation, summer holiday
+池|pond
+郵便局|post office
+教室|classroom, lecture room
+耳|ear
+切手|stamp (postage), merchandise certificate
+電気|electricity
+作文|writing (an essay, prose, etc.), composition
+歯|tooth, teeth
+紅茶|black tea
+家庭|home, household, family, hearth
+野菜|vegetable
+地下鉄|subway, metro, underground (railway)
+鼻|nose
+緑|green
+昼|noon, midday
+西|west
+白|white
+洗濯|washing, laundry
+冷蔵庫|refrigerator, fridge
+火曜日|Tuesday
+南|south
+北|north
+茶色|brown, light brown, tawny
+喫茶店|coffee shop, tearoom, coffee lounge, coffeehouse, cafe
+靴下|socks, sock, stockings, stocking
+封筒|envelope
+黄色|yellow, amber
+映画館|movie theatre, movie theater, cinema
+食堂|dining room, dining hall, cafeteria, canteen, messroom
+牛肉|beef
+交差点|crossing, intersection
+漢字|kanji, Chinese character
+曇り|cloudiness, cloudy weather
+灰皿|ashtray
+交番|police box, koban, small neighborhood police station
+豚肉|pork
+飲む|to drink, to gulp, to swallow, to take (medicine)
+頭|head
+日曜日|Sunday
+誕生日|birthday
+可愛い|cute, adorable, charming, lovely, pretty
+鞄|bag, satchel, briefcase, basket
+土曜日|Saturday
+月曜日|Monday
+金曜日|Friday
+木曜日|Thursday
+本棚|bookshelves, bookshelf, bookcase
+水曜日|Wednesday
+八百屋|greengrocer, fruit and vegetable shop
+成る|to become, to get, to grow, to turn, to reach, to attain
+より|than
+一番|number one, first, first place
+私|I, me
+外|outside, exterior
+在る|to be, to exist, to live
+其の|that, the
+言う|to say, to utter, to declare
+出来る|to be able (in a position) to do, to be up to the task
+良い|good, excellent, fine, nice, pleasant, agreeable
+下さい|please (give me)
+見る|to see, to look, to watch, to view, to observe
+此の|this
+自分|myself, yourself, oneself, himself, herself
+知る|to know, to be aware (of), to be conscious (of), to learn (of), to find out, to discover
+持つ|"to hold (in one's hand), to take, to carry"
+何|what
+車|car, automobile, vehicle
+話す|to talk, to speak, to converse, to chat
+今|now, the present time, just now, soon, immediately
+今日|today, this day
+買う|to buy, to purchase
+読む|to read
+皆|everyone, everybody, all
+新しい|new, novel, fresh, recent, latest, up-to-date, modern
+話|talk, speech, chat, conversation
+明日|tomorrow
+昨日|yesterday
+出る|to leave, to exit, to go out, to come out, to get out
+勉強|study
+取る|to take, to pick up, to grab, to catch
+誰|who
+お金|money
+男|man, male
+犬|dog (Canis (lupus) familiaris)
+使う|to use (a tool, method, etc.), to make use of, to put to use
+大変|very, greatly, terribly, awfully
+待つ|to wait
+作る|to make, to produce, to manufacture, to build, to construct
+後ろ|back, behind, rear
+町|town, block, neighbourhood, neighborhood
+駅|railway station, train station
+少し|a little, a bit, a small amount, a few, some, slightly, somewhat
+貴方|you
+欲しい|wanting (to have), desiring, wishing for
+行く|to go, to move (towards), to head (towards), to leave (for)
+乗る|to get on (train, plane, bus, ship, etc.), to get in, to board, to take, to embark
+医者|doctor, physician
+終わる|to end, to come to an end, to finish, to close, to be over
+学生|student (esp. a university student)
+長い|long (distance, length)
+何の|which, what (way)
+国|country, state
+又|again, once more, once again, another time, some other time
+高い|high, tall
+余り|remainder, remnant, rest, balance, surplus, remains (of a meal), leftovers
+難しい|difficult, hard, troublesome, complicated, serious (disease, problem, etc.)
+友達|friend, companion
+一つ|one
+本当|truth, reality, actuality, fact
+寝る|to sleep (lying down)
+生徒|pupil, student, schoolchild
+忙しい|busy, occupied, hectic
+泳ぐ|to swim
+出す|to take out, to get out
+立つ|"to stand (up), to rise, to get to one's feet, to stand on end (e.g. of hairs), to stick up"
+早い|fast, quick, rapid, swift, speedy, brisk, prompt
+楽しい|enjoyable, fun, pleasant, happy, delightful
+面白い|interesting, fascinating, intriguing, enthralling
+絵|picture, drawing, painting, sketch
+女の子|girl, daughter, baby girl
+着る|to wear (from the shoulders down), to put on
+上手|skillful, skilled, proficient, good (at), adept, clever
+古い|old, aged, ancient, antiquated, antique, timeworn
+強い|strong, potent, competent, domineering, tough
+全部|all, entire, whole, altogether
+呼ぶ|to call out (to), to call, to invoke
+午後|afternoon, p.m.
+掛ける|to hang up (e.g. a coat, a picture on the wall), to let hang, to suspend (from), to hoist (e.g. sail), to raise (e.g. flag)
+辞書|dictionary, lexicon
+天気|weather
+体|body
+大きい|big, large, great
+夕べ|evening
+質問|question, inquiry, enquiry
+有名|famous
+兄|older brother, elder brother
+歌う|to sing
+上る|to ascend, to go up, to climb
+服|clothes (esp. Western clothes), clothing, dress, costume, suit, outfit
+鳥|bird
+時々|sometimes, occasionally, at times, from time to time, now and then, once in a while, at intervals
+妹|younger sister
+二つ|two
+頼む|to request, to beg, to ask
+お父さん|father, dad, papa, pa, pop, daddy, dada
+遅い|slow, time-consuming, sluggish
+薬|medicine, pharmaceuticals, (legal) drugs, pill, ointment, salve
+借りる|to borrow, to have a loan
+庭|garden, yard, courtyard
+外国|foreign country
+小さい|small, little, tiny
+元気|lively, full of spirit, energetic, vigorous, vital, spirited
+弟|younger brother, little brother, kid brother
+今年|this year
+魚|fish
+お母さん|mother, mom, mum, ma
+男の子|boy, son, baby boy
+飛ぶ|to fly, to soar
+売る|to sell
+静か|quiet, silent
+休む|to be absent, to take a day off
+食べ物|food
+大切|important, significant, serious, crucial
+警官|police officer, policeman, constable
+建物|building
+暖かい|warm, mild, (pleasantly) hot
+降りる|to descend (e.g. a mountain), to go down, to come down
+止まる|to stop (moving), to come to a stop
+一緒|(doing) together
+先週|last week, the week before
+二|two, 2
+少ない|few, little, small (amount), low, scarce, insufficient, seldom, rare
+赤い|red, crimson, scarlet, vermilion
+洗う|to wash, to cleanse, to rinse
+嫌い|disliked, hated, disagreeable
+立派|splendid, fine, handsome, elegant, imposing, prominent, impressive
+暇|spare time, free time, leisure
+お茶|tea (esp. green or barley)
+広い|spacious, vast, wide
+去年|last year
+大好き|liking very much, loving (something or someone), adoring, being very fond of
+隣|next (to), adjoining, adjacent
+女|woman, female
+切る|to cut, to cut through, to perform (surgery)
+多分|probably, likely, perhaps, maybe
+嫌|disliking, not wanting, unwilling (to do), reluctant
+荷物|luggage, baggage, package
+番号|number, series of digits
+返す|to return (something), to restore, to put back
+来年|next year
+明るい|light, well-lit, well-lighted
+近い|near, close, short (distance)
+向こう|opposite side, other side, opposite direction
+痛い|painful, sore
+秋|autumn, fall
+休み|rest, recess, respite
+十|ten, 10
+上着|coat, jacket, outerwear
+先月|last month
+結構|splendid, nice, wonderful, delightful, lovely, excellent, fine
+兄弟|siblings, brothers and sisters
+毎年|every year, yearly, annually
+来月|next month
+五|five, 5
+飲み物|drink, beverage
+弱い|weak, frail, delicate, tender, unskilled, weak (wine)
+牛乳|"(cow's) milk"
+三|three, 3
+大丈夫|safe, secure, sound, problem-free, without fear, all right, alright, OK, okay
+黒い|black
+皆さん|all, everyone, everybody
+半分|half
+押す|to push, to thrust, to shove
+勤める|to work (for), to be employed (at), to serve (in)
+熱い|hot (to the touch)
+三つ|three
+果物|fruit
+今週|this week
+甘い|sweet-tasting, sweet, sugary, sugared
+右|right, right-hand side
+晩|evening, night
+階段|stairs, stairway, staircase
+大勢|crowd of people, great number of people
+張る|to stick, to paste, to affix
+夕方|early evening (usu. from 3pm to 6pm), dusk
+低い|low (rank, degree, value, content, quality, etc.)
+左|left, left-hand side
+下手|unskillful, poor, awkward
+千|thousand, 1,000
+渡す|to ferry across (e.g. a river), to carry across, to traverse
+午前|morning, a.m.
+丸い|round, circular, spherical
+便利|convenient, handy, useful
+今月|this month
+浴びる|to dash over oneself (e.g. water), to take (e.g. shower), to bask in (e.g. the sun), to bathe in, to be flooded with (e.g. light), to be covered in
+半|half, semi-, partial
+洋服|Western-style clothes (cf. traditional Japanese clothes)
+撮る|to take (a photograph)
+締める|to tie, to fasten, to tighten
+文章|writing, composition, essay, article, passage, prose, (writing) style
+薄い|thin (of an object)
+八|eight, 8
+横|horizontal (as opposed to vertical), lying down
+四つ|four, 4
+六|six, 6
+丈夫|healthy, robust, strong, solid, durable
+東|east
+毎晩|every night
+五つ|five
+細い|thin, slender, fine
+廊下|corridor, hallway, passageway
+太い|fat, thick
+縦|the vertical, height
+七つ|seven
+九つ|nine
+留学生|overseas student, exchange student
+人|person, someone, somebody
+居る|to be (of animate objects), to exist
+其れ|that, it
+物|thing, object, article, stuff, substance
+家|house, residence, dwelling
+本|book, volume, script
+迚も|very, awfully, exceedingly
+会う|to meet, to encounter, to see
+好き|"liking, being fond of, to one's liking, to one's taste, preferred, favourite"
+分かる|to understand, to comprehend, to grasp, to see, to get, to follow
+此れ|this, this one
+聞く|to hear
+所|place, spot, scene, site
+先|point, tip, end, nozzle
+何時も|always, all the time, at all times
+書く|to write, to compose, to pen
+沢山|a lot, lots, plenty, many, a large number, much, a great deal, a good deal
+入る|to enter, to come in, to go in, to get in, to arrive
+置く|to put, to place
+何処|where, what place
+住む|to live (of humans), to reside, to inhabit, to dwell, to abide
+食べる|to eat
+歩く|to walk
+働く|to work, to labor, to labour
+着く|to arrive at, to reach
+上|above, over, up
+悪い|bad, poor, undesirable
+教える|to teach, to instruct
+降る|to fall (of rain, snow, ash, etc.), to come down
+死ぬ|to die, to pass away
+帰る|to return, to come home, to go home, to go back
+多い|many, numerous, a lot
+若い|young, youthful
+掛かる|to take (a resource, e.g. time or money)
+同じ|same, identical, equal, alike, equivalent
+起きる|to get up, to rise, to blaze up (fire)
+座る|to sit, to squat
+店|store, shop, establishment, restaurant
+入れる|to put in, to let in, to take in, to bring in, to insert, to install (e.g. software), to set (a jewel, etc.), to ink in (e.g. tattoo)
+何方|who
+一寸|a little, a bit, slightly
+疲れる|to get tired, to tire, to get fatigued, to become exhausted, to grow weary
+開ける|to open (a door, etc.), to unwrap (e.g. parcel, package), to unlock
+何故|why, how, for what reason
+寒い|cold (e.g. weather)
+見せる|to show, to display
+違う|to differ (from), to be different, to be distinct, to be unlike, to vary, to disagree (with)
+如何して|how, in what way, by what means
+付ける|to attach, to join, to connect, to add, to append, to affix, to stick, to glue, to fasten, to sew on, to apply (ointment), to put against
+風|wind, breeze, draught, draft
+困る|to be troubled, to have difficulty, to be in a fix, to be at a loss, to be stumped, to be embarrassed
+生まれる|to be born
+丁度|exactly, precisely, just, right, opportunely, fortunately
+初めて|for the first time
+始まる|to begin, to start, to commence
+貸す|to lend, to loan
+奇麗|pretty, lovely, beautiful, fair
+幾ら|how much
+空|sky, the air, the heavens
+弾く|to play (a stringed or keyboard instrument)
+暑い|hot, warm, sultry, heated
+遊ぶ|to play (games, sports), to enjoy oneself, to have a good time
+然し|however, but
+無くす|to lose (something)
+色々|various, a variety of, all sorts of, many (different)
+渡る|to cross over, to go across
+暗い|dark, gloomy, murky
+此方|this way, this direction
+重い|heavy, weighty
+美味しい|good(-tasting), nice, delicious, tasty
+消す|to erase, to rub out, to rub off, to cross out, to delete
+易しい|easy, plain, simple
+閉める|to close, to shut
+安い|cheap, inexpensive
+遠い|far, distant, far away, a long way off, in the distance
+短い|short
+消える|to disappear, to vanish, to go out of sight, to go away, to become lost
+晴れる|to clear up, to clear away, to be sunny, to stop raining
+曲がる|to bend, to curve, to warp, to wind, to twist
+冷たい|cold (to the touch), chilly, icy, freezing
+青い|blue, azure
+頁|page
+吹く|to blow (of the wind)
+奥さん|wife, your wife, his wife, married lady, madam
+引く|to pull, to tug, to lead (e.g. a horse)
+段々|gradually, by degrees, little by little, more and more, increasingly
+習う|to take lessons in, to be taught, to learn (from a teacher), to study (under a teacher), to get training in
+彼処|there, over there, that place, yonder, you-know-where
+狭い|narrow, confined, small, cramped
+軽い|light (i.e. not heavy), feeling light (i.e. offering little resistance, moving easily)
+脱ぐ|to take off (clothes, shoes, etc.), to undress
+並ぶ|to line up, to stand in a line
+煩い|noisy, loud
+吸う|to smoke, to breathe in, to inhale
+詰らない|dull, uninteresting, boring, tedious
+閉まる|to be shut, to close, to be closed
+咲く|to bloom, to flower, to blossom, to open
+真っ直ぐ|straight (ahead), direct, upright, erect
+一|one, 1
+お祖母さん|grandmother
+其方|that way, that direction
+涼しい|cool, refreshing
+厚い|thick, deep, heavy
+お兄さん|older brother, elder brother
+お姉さん|older sister, elder sister
+並べる|to line up, to set up, to arrange in a line
+危ない|dangerous, risky, hazardous, perilous, precarious
+汚い|dirty, filthy, foul, unclean
+お腹|belly, abdomen, stomach
+不味い|bad (taste), unpalatable, unsavoury, unsavory, awful, terrible, unpleasant
+曇る|to get cloudy, to cloud over, to become overcast
+ご飯|cooked rice
+磨く|to polish, to shine, to burnish, to scour, to scrub, to brush (teeth), to grind (e.g. a lens)
+お菓子|confections, sweets, candy, cake
+鳴く|to make sound (of an animal), to call, to cry, to whine, to sing, to chirp
+葉書|postcard
+朝ご飯|breakfast
+Ｙシャツ|(formal) shirt, dress shirt, business shirt, button-up shirt
+六つ|six
+お手洗い|toilet, restroom, lavatory, bathroom
+お巡りさん|police officer
+零|zero, nought
+差す|to shine
+粁|kilometer, kilometre
+八つ|eight
+再来年|year after next
+燐寸|match (for lighting a fire)
+良く|nicely, properly, well, skillfully, skilfully
+其処|there (place relatively near listener)
+答える|to answer, to reply
+要る|to be needed, to be necessary, to be required, to be wanted, to need, to want
+背|back
+昼ご飯|lunch, midday meal
+等|et cetera, etc., and the like, and so forth
+プール|(swimming) pool
+中|inside, interior
+コーヒー|coffee
+米|metre (unit of length), meter
+エレベーター|elevator, lift
+醤油|soy sauce, shoyu
+はい|yes, that is correct
+為る|to do, to carry out, to perform
+彼|that, that thing
+来る|to come (spatially or temporally), to approach, to arrive
+一人|one person
+二人|two persons, two people, pair, couple
+側|near, close, beside, vicinity, proximity, besides, while
+辛い|spicy, hot
+伯母さん|aunt
+四|four, 4
+お酒|alcohol, sake
+入口|entrance, entry, gate, approach, mouth
+出口|exit, gateway, way out
+此処|here, this place
+前|in front (of), before (e.g. a building)
+もう|already, yet, by now, now, (not) any more, (not) any longer
+如何|how, in what way, how about
+方|direction, way
+未だ|still, as yet, only
+何時|when, at what time, how soon
+パーティ|party (social gathering)
+他|another place, some other place, somewhere else, outside
+次|next, following, subsequent
+誰か|someone, somebody
+開く|to open (e.g. doors)
+下|below, down, under, younger (e.g. daughter)
+然して|and, and then, thus, and now, and finally
+さあ|come (on), come now, come along, here
+其れから|and then, after that
+ボタン|button (clothing)
+トイレ|toilet, restroom, bathroom, lavatory
+何れ|which (of three or more)
+彼方|that way, that direction, over there, yonder
+では|then, well, so, well then
+温い|lukewarm, tepid
+然うして|and, like that
+瓦|gram, gramme
+瓩|kilogram, kilogramme
+直ぐに|immediately, right away, at once, instantly
+忘れる|to forget, to leave carelessly, to be forgetful of, to forget about, to forget (an article)
+咖哩|curry (esp. Japanese curry)
+否|no
+コップ|glass (drinking vessel), tumbler
+幾つ|how many
+黒|black

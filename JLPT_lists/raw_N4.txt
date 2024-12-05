@@ -1,0 +1,566 @@
+周り	circumference, girth	周[まわ]り	Noun	surroundings, neighbourhood, neighborhood, vicinity; people surrounding oneself, surrounding circumstances		jlpt-n4
+腕	arm	腕[うで]	Noun	skill, efforts, ability	[sound:腕.mp3]	jlpt-n4
+人形	doll, puppet, marionette	人形[にんぎょう]	Noun	puppet (person under the control of another), straw man, yes-man	[sound:人形.mp3]	jlpt-n4
+文化	culture, civilization, civilisation	文化[ぶんか]	Noun	Bunka era (1804.2.11-1818.4.22)	[sound:文化.mp3]	jlpt-n4
+海岸	coast, beach	海岸[かいがん]	"Noun, Noun which may take the genitive case particle 'no'"		[sound:海岸.mp3]	jlpt-n4
+産業	industry	産業[さんぎょう]	"Noun, Noun which may take the genitive case particle 'no'"	livelihood, occupation	[sound:産業.mp3]	jlpt-n4
+動物園	zoo, zoological gardens	動物園[どうぶつえん]	Noun			jlpt-n4
+美術館	art museum, art gallery	美術館[びじゅつかん]	Noun		[sound:美術館.mp3]	jlpt-n4
+飛行場	airfield, airport	飛行場[ひこうじょう]	Noun			jlpt-n4
+水道	water supply, water service, waterworks, tap water	水道[すいどう]	Noun	channel, strait; water course, waterway		jlpt-n4
+葡萄	grape, grapevine	ぶどう	Noun		[sound:ぶどう.mp3]	jlpt-n4 usually_kana
+事故	accident, incident, trouble	事故[じこ]	Noun	circumstances, reasons	[sound:事故.mp3]	jlpt-n4
+息子	son	息子[むすこ]	Noun	penis	[sound:息子.mp3]	jlpt-n4
+生活	life, living	生活[せいかつ]	Noun, Suru verb, Intransitive verb	"livelihood, (one's) living"	[sound:生活.mp3]	jlpt-n4
+注意	attention, notice, heed	注意[ちゅうい]	Noun, Suru verb, Intransitive verb	care, caution, precaution, looking out (for), watching out (for); advice, warning, caution, reminder; admonishment, reprimand, telling-off	[sound:注意.mp3]	jlpt-n4
+女性	woman, female	女性[じょせい]	"Noun, Noun which may take the genitive case particle 'no'"	feminine gender	[sound:女性.mp3]	jlpt-n4
+生きる	to live, to exist	生[い]きる	Ichidan verb, Intransitive verb	to make a living, to subsist; to be in effect, to be in use, to function; to come to life, to be enlivened; to be safe (in baseball, go, etc.)	[sound:生きる.mp3]	jlpt-n4
+船	ship, boat, watercraft, vessel, seaplane	船[ふね]	Noun	tank, tub, vat, trough; counter for boat-shaped containers (e.g. of sashimi)	[sound:船.mp3]	jlpt-n3 jlpt-n4
+説明	explanation, exposition, description, account, caption, legend	説明[せつめい]	Noun, Suru verb, Transitive verb		[sound:説明.mp3]	jlpt-n4
+警察	police	警察[けいさつ]	Noun	police officer; police station; self-appointed enforcer (of a rule, standard, etc.), busybody, vigilante, gatekeeper	[sound:警察.mp3]	jlpt-n4
+危険	danger, peril, hazard	危険[きけん]	Noun, Na-adjective 	risk	[sound:危険.mp3]	jlpt-n4
+世界	the world, society, the universe	世界[せかい]	Noun	sphere, circle, world; world-renowned, world-famous; realm governed by one Buddha, space	[sound:世界.mp3]	jlpt-n4
+戦争	war	戦争[せんそう]	Noun, Suru verb, Intransitive verb	fighting, fierce competition	[sound:戦争.mp3]	jlpt-n4
+小説	novel, story, (work of) fiction	小説[しょうせつ]	Noun		[sound:小説.mp3]	jlpt-n4
+関係	relation, relationship, connection	関係[かんけい]	Noun, Suru verb, Intransitive verb	participation, involvement, concern; influence, effect; sexual relations, sexual relationship; related to, connected to	[sound:関係.mp3]	jlpt-n4
+研究	study, research, investigation	研究[けんきゅう]	Noun, Suru verb, Transitive verb		[sound:研究.mp3]	jlpt-n4
+会議	meeting, conference, session, assembly, council, convention, congress	会議[かいぎ]	Noun, Suru verb, Intransitive verb, Transitive verb		[sound:会議.mp3]	jlpt-n4
+音	sound, noise	音[おと]	Noun	(musical) note; fame	[sound:音.mp3]	jlpt-n1 jlpt-n3 jlpt-n4
+普通	normal, ordinary, regular, usual, common, average	普通[ふつう]	"Noun which may take the genitive case particle 'no', Na-adjective "	normally, ordinarily, usually, generally, commonly; local train, train that stops at every station	[sound:普通.mp3]	jlpt-n4
+湖	lake	湖[みずうみ]	Noun		[sound:湖.mp3]	jlpt-n4
+夢	dream	夢[ゆめ]	Noun		[sound:夢.mp3]	jlpt-n4
+空港	airport	空港[くうこう]	Noun		[sound:空港.mp3]	jlpt-n4
+数学	mathematics	数学[すうがく]	Noun		[sound:数学.mp3]	jlpt-n4
+教育	education, schooling, training, instruction, teaching, upbringing	教育[きょういく]	Noun, Suru verb, Transitive verb	culture, cultivation, education	[sound:教育.mp3]	jlpt-n4
+赤ちゃん	baby, infant	赤[あか]ちゃん	Noun		[sound:赤ちゃん.mp3]	jlpt-n1 jlpt-n4
+火	fire, flame, blaze	火[ひ]	Noun, Noun, used as a suffix		[sound:火.mp3]	jlpt-n4
+自由	freedom, liberty	自由[じゆう]	Noun, Na-adjective 		[sound:自由.mp3]	jlpt-n4
+森	forest	森[もり]	Noun	shrine grove	[sound:森.mp3]	jlpt-n4
+法律	law	法律[ほうりつ]	Noun		[sound:法律.mp3]	jlpt-n4
+気分	feeling, mood	気分[きぶん]	Noun		[sound:気分.mp3]	jlpt-n4
+壁	wall, partition	壁[かべ]	Noun	"barrier, obstacle, hindrance, difficulty; Chinese ""Wall"" constellation (one of the 28 mansions)"	[sound:壁.mp3]	jlpt-n4
+田舎	rural area, countryside, the sticks	田舎[いなか]	Noun	hometown	[sound:田舎.mp3]	jlpt-n4
+気	spirit, mind, heart	気[き]	Noun	nature, disposition; intention, mind, will, motivation; mood, feelings; consciousness; care, attention, consideration, worry; interest; (the) air, atmosphere; ambience, atmosphere (of), air (of), mood; fragrance, aroma, flavour, taste; qi (in traditional Chinese philosophy and medicine), chi, ki	[sound:気.mp3]	jlpt-n4
+男性	man, male	男性[だんせい]	"Noun, Noun which may take the genitive case particle 'no'"	masculine gender	[sound:男性.mp3]	jlpt-n4
+地震	earthquake	地震[じしん]	Noun		[sound:地震.mp3]	jlpt-n4
+人口	population	人口[じんこう]	Noun	common talk	[sound:人口.mp3]	jlpt-n4
+故障	fault, trouble, breakdown, failure, being out of order	故障[こしょう]	Noun, Suru verb, Intransitive verb	damage (to a part of the body), injury, hurt; problem, hitch, obstacle, hindrance; objection, protest	[sound:故障.mp3]	jlpt-n3 jlpt-n4
+残念	regrettable, unfortunate, disappointing, vexing	残念[ざんねん]	Na-adjective , Noun		[sound:残念.mp3]	jlpt-n4
+島	island	島[しま]	Noun	"one's territory (of a sex worker, organized crime gang, etc.), one's turf"		jlpt-n4
+教会	church, congregation	教会[きょうかい]	Noun			jlpt-n4
+歴史	history	歴史[れきし]	Noun		[sound:歴史.mp3]	jlpt-n4
+住所	address, residence, domicile	住所[じゅうしょ]	Noun		[sound:住所.mp3]	jlpt-n4
+社会	society, public, community, the world	社会[しゃかい]	Noun	social studies	[sound:社会.mp3]	jlpt-n4
+工場	factory, plant, mill, workshop	工場[こうじょう]	Noun		[sound:工場.mp3]	jlpt-n4
+趣味	hobby, pastime	趣味[しゅみ]	Noun	tastes, preference, liking	[sound:趣味.mp3]	jlpt-n4
+経済	economy, economics	経済[けいざい]	Noun	"finance, (one's) finances, financial circumstances; being economical, economy, thrift"	[sound:経済.mp3]	jlpt-n4
+台風	typhoon, hurricane	台風[たいふう]	Noun			jlpt-n4
+卒業	graduation, completion (of a course)	卒業[そつぎょう]	Noun, Suru verb, Intransitive verb	moving on (from), outgrowing (something); leaving (a group, company, etc.), quitting	[sound:卒業.mp3]	jlpt-n4
+雲	cloud	雲[くも]	Noun		[sound:雲.mp3]	jlpt-n4
+光	light	光[ひかり]	Noun	illumination, ray, beam, gleam, glow; happiness, hope; influence, power; vision, eyesight; optical fiber, optical fibre	[sound:光.mp3]	jlpt-n4
+科学	science	科学[かがく]	Noun		[sound:科学.mp3]	jlpt-n4
+贈り物	present, gift	贈[おく]り 物[もの]	Noun		[sound:贈り物.mp3]	jlpt-n4
+政治	politics, government	政治[せいじ]	Noun		[sound:政治.mp3]	jlpt-n4
+特別	special, particular, extraordinary, exceptional, especial	特別[とくべつ]	"Na-adjective , Noun which may take the genitive case particle 'no', Adverb , Noun"		[sound:特別.mp3]	jlpt-n4
+水泳	swimming	水泳[すいえい]	Noun, Suru verb, Intransitive verb			jlpt-n4
+講義	lecture	講義[こうぎ]	Noun, Suru verb, Transitive verb		[sound:講義.mp3]	jlpt-n4
+指	finger, toe, digit	指[ゆび]	Noun		[sound:指.mp3]	jlpt-n4
+生産	production, manufacture	生産[せいさん]	Noun, Suru verb, Transitive verb			jlpt-n3 jlpt-n4
+会話	conversation, talk, chat	会話[かいわ]	Noun, Suru verb, Intransitive verb		[sound:会話.mp3]	jlpt-n4
+玩具	toy	おもちゃ	Noun	(person or thing treated as a) plaything		jlpt-n1 jlpt-n4 usually_kana
+季節	season, time of year	季節[きせつ]	"Noun, Noun which may take the genitive case particle 'no'"		[sound:季節.mp3]	jlpt-n4
+翻訳	translation	翻訳[ほんやく]	Noun, Suru verb, Transitive verb	deciphering, decoding; translation	[sound:翻訳.mp3]	jlpt-n4
+貿易	(foreign) trade, (international) commerce, importing and exporting	貿易[ぼうえき]	Noun, Suru verb, Intransitive verb		[sound:貿易.mp3]	jlpt-n4
+文学	literature	文学[ぶんがく]	Noun			jlpt-n4
+葉	leaf, blade (of grass), (pine) needle	葉[は]	Noun			jlpt-n4
+交通	traffic, transportation, communication, exchange (of ideas, etc.), intercourse	交通[こうつう]	Noun, Suru verb		[sound:交通.mp3]	jlpt-n4
+遊び	play, playing, game	遊[あそ]び	Noun	pleasure, amusement, pastime, recreation, diversion; play (in a mechanism, e.g. a steering wheel); flexibility (in a performance, art, etc.), freedom; flyleaf		jlpt-n4
+道具	tool, implement, instrument, utensil, apparatus, device	道具[どうぐ]	Noun	means; furniture	[sound:道具.mp3]	jlpt-n4
+入学	admission (to a school or university), entrance, enrolment, enrollment, matriculation	入学[にゅうがく]	Noun, Suru verb, Intransitive verb		[sound:入学.mp3]	jlpt-n3 jlpt-n4
+背中	back (of the body)	背中[せなか]	Noun		[sound:背中.mp3]	jlpt-n4
+発音	pronunciation	発音[はつおん]	Noun, Suru verb, Transitive verb	production of sound	[sound:発音.mp3]	jlpt-n4
+指輪	(finger) ring	指輪[ゆびわ]	Noun		[sound:指輪.mp3]	jlpt-n4
+医学	medical science, medicine	医学[いがく]	Noun		[sound:医学.mp3]	jlpt-n4
+漫画	cartoon, comic, comic strip, manga	漫画[まんが]	Noun		[sound:漫画.mp3]	jlpt-n4
+鏡	mirror, looking-glass	鏡[かがみ]	Noun	barrel head; page added at the beginning of a document mentioning its purpose, date, author, etc.; mirror-shaped mochi	[sound:鏡.mp3]	jlpt-n4
+電報	telegram	電報[でんぽう]	Noun			jlpt-n4
+校長	principal, head teacher, headmaster, headmistress	校長[こうちょう]	Noun			jlpt-n4
+郊外	suburb, residential area on the outskirt of a city, commuter belt	郊外[こうがい]	Noun			jlpt-n4
+市民	citizen, citizenry, public	市民[しみん]	Noun	city inhabitant, townspeople; bourgeoisie, middle class		jlpt-n4
+国際	international	国際[こくさい]	"Noun which may take the genitive case particle 'no', Noun"		[sound:国際.mp3]	jlpt-n4
+砂	sand, grit	砂[すな]	Noun		[sound:砂.mp3]	jlpt-n4
+手袋	glove, mitten, mitt	手袋[てぶくろ]	Noun		[sound:手袋.mp3]	jlpt-n4
+日記	diary, journal	日記[にっき]	Noun		[sound:日記.mp3]	jlpt-n4
+絹	silk	絹[きぬ]	Noun			jlpt-n4
+文法	grammar	文法[ぶんぽう]	Noun		[sound:文法.mp3]	jlpt-n4
+糸	thread, yarn, string	糸[いと]	Noun, Noun, used as a suffix		[sound:糸.mp3]	jlpt-n4
+神社	Shinto shrine	神社[じんじゃ]	Noun		[sound:神社.mp3]	jlpt-n4
+小学校	primary school, elementary school, grade school	小学校[しょうがっこう]	Noun		[sound:小学校.mp3]	jlpt-n4
+駐車場	parking lot, car park, carpark, parking garage	駐車場[ちゅうしゃじょう]	Noun		[sound:駐車場.mp3]	jlpt-n4
+西洋	the West, the Occident, Western countries	西洋[せいよう]	Noun			jlpt-n4
+先輩	senior (at work or school), superior, elder, older graduate, progenitor, old-timer	先輩[せんぱい]	Noun		[sound:先輩.mp3]	jlpt-n4
+坂	slope, incline, hill	坂[さか]	Noun	milestone, (age) mark	[sound:坂.mp3]	jlpt-n4
+注射	injection, jab, shot	注射[ちゅうしゃ]	Noun, Suru verb, Transitive verb		[sound:注射.mp3]	jlpt-n4
+乗り物	vehicle, conveyance, transport	乗[の]り 物[もの]	Noun	ride (playground, fair, carnival), playground facility	[sound:乗り物.mp3]	jlpt-n4
+旅館	ryokan, traditional Japanese inn	旅館[りょかん]	Noun		[sound:旅館.mp3]	jlpt-n4
+林	wood, woods, forest, grove, copse, thicket	林[はやし]	Noun	bunch (of something), cluster, line, collection	[sound:林.mp3]	jlpt-n4
+布団	futon, Japanese bedding consisting of a mattress and a duvet	布団[ふとん]	Noun	round cushion used for Zen meditation (traditionally made of woven bulrush leaves)	[sound:布団.mp3]	jlpt-n4
+柔道	judo	柔道[じゅうどう]	Noun		[sound:柔道.mp3]	jlpt-n4
+研究室	laboratory	研究室[けんきゅうしつ]	Noun	"seminar room; professor's office"	[sound:研究室.mp3]	jlpt-n4
+会議室	conference room, council room	会議室[かいぎしつ]	Noun			jlpt-n4
+中学校	junior high school, middle school, lower secondary school	中学校[ちゅうがっこう]	Noun		[sound:中学校.mp3]	jlpt-n4
+高等学校	senior high school, high school	高等学校[こうとうがっこう]	Noun			jlpt-n4
+花見	cherry blossom viewing, flower viewing	花見[はなみ]	Noun, Suru verb		[sound:花見.mp3]	jlpt-n4
+公務員	public employee, government employee, public-sector worker, public servant, civil servant	公務員[こうむいん]	Noun			jlpt-n4
+辞典	dictionary, lexicon	辞典[じてん]	Noun			jlpt-n4
+心	mind, heart, spirit	心[こころ]	Noun	the meaning of a phrase (riddle, etc.)	[sound:心.mp3]	jlpt-n4
+力	force, strength, might, vigour, vigor, energy	力[ちから]	Noun	capability, ability, proficiency, capacity, faculty; efficacy, effect; effort, endeavours, endeavors, exertions; power, authority, influence, good offices, agency; support, help, aid, assistance; stress, emphasis; means, resources	[sound:力.mp3]	jlpt-n4
+喧嘩	quarrel, brawl, fight, squabble, scuffle, argument	喧嘩[けんか]	Noun, Suru verb, Intransitive verb			jlpt-n3 jlpt-n4
+天気予報	weather forecast, weather report	天気予報[てんきよほう]	Noun			jlpt-n4
+髭	moustache, mustache, beard, whiskers, sideburns	ひげ	Noun	whiskers (on a cat, etc.), feelers (on an insect, etc.), (chin) tuft; shadow (on a candlestick chart)		jlpt-n2 jlpt-n4 usually_kana
+押し入れ	closet (built into the wall of a room), (built-in) wardrobe	押[お]し 入[い]れ	Noun		[sound:押し入れ.mp3]	jlpt-n4
+味噌	miso, fermented condiment usu. made from soybeans	味噌[みそ]	Noun	innards (from crabs, shrimps, etc.) resembling miso; key (main) point, good part (of something); weakling, weak person; try	[sound:味噌.mp3]	jlpt-n4
+客	guest, visitor	客[きゃく]	Noun	customer, client, shopper, spectator, audience, tourist, sightseer, passenger; counter for containers used to entertain guests		jlpt-n4
+祖父	grandfather	祖父[そふ]	Noun	old man; kyogen mask used for the role of an old man	[sound:祖父.mp3]	jlpt-n4
+高校	senior high school, high school	高校[こうこう]	Noun		[sound:高校.mp3]	jlpt-n4
+近所	neighbourhood, neighborhood	近所[きんじょ]	"Noun, Noun which may take the genitive case particle 'no'"			jlpt-n4
+番組	program (e.g. TV), programme	番組[ばんぐみ]	Noun			jlpt-n4
+見物	sightseeing, watching, viewing	見物[けんぶつ]	Noun, Suru verb, Transitive verb	sightseer, spectator, viewer, onlooker		jlpt-n4
+亜米利加	(United States of) America, United States, US, USA	アメリカ	Noun	America (land mass), the Americas		jlpt-n4 usually_kana
+彼女	she, her	彼女[かのじょ]	Pronoun	girlfriend	[sound:彼女.mp3]	jlpt-n4
+思う	to think, to consider, to believe, to reckon	思[おも]う	"Godan verb with 'u' ending, Transitive verb"	to think (of doing), to plan (to do); to judge, to assess, to regard; to imagine, to suppose, to dream; to expect, to look forward to; to feel, to be (in a state of mind), to desire, to want; to recall, to remember	[sound:思う.mp3]	jlpt-n4
+僕	I, me	僕[ぼく]	Pronoun	you; manservant	[sound:僕.mp3]	jlpt-n4
+必要	necessary, needed, essential, indispensable	必要[ひつよう]	Na-adjective 	necessity, need, requirement	[sound:必要.mp3]	jlpt-n4
+見える	to be seen, to be visible, to be in sight	見[み]える	Ichidan verb, Intransitive verb	to look, to seem, to appear; to come	[sound:見える.mp3]	jlpt-n4
+考える	to think (about, of), to think over, to ponder, to contemplate, to reflect (on), to meditate (on)	考[かんが]える	Ichidan verb, Transitive verb	to consider, to bear in mind, to allow for, to take into consideration; to think (that), to believe, to hold (a view), to judge, to conclude, to suspect; to intend (to do), to think of (doing), to plan; to predict, to anticipate, to expect, to imagine; to come up with, to think up, to contrive, to devise; to consider (as), to regard (as), to look on (as), to take, to view	[sound:考える.mp3]	jlpt-n4
+為	good, advantage, benefit, welfare	ため	Noun, Adverb 	sake, purpose, objective, aim; consequence, result, effect; affecting, regarding, concerning		jlpt-n4 usually_kana
+始める	to start, to begin, to commence, to initiate, to originate	始[はじ]める	Ichidan verb, Transitive verb	to start up (a business, society, etc.), to open (e.g. a store), to establish; to start ..., to begin to ...	[sound:始める.mp3]	jlpt-n4
+受ける	to receive, to get	受[う]ける	Ichidan verb, Transitive verb	to catch (e.g. a ball); to be struck by (wind, waves, sunlight, etc.); to sustain (damage), to incur (a loss), to suffer (an injury), to feel (influence); to undergo (e.g. surgery), to take (a test), to accept (a challenge); to be given (e.g. life, talent); to find funny, to find humorous, to be amused (by); to follow, to succeed, to be descended from; to face (south, etc.); to be modified by; to obtain (a pawned item, etc.) by paying a fee; to be well-received, to become popular, to go down well	[sound:受ける.mp3]	jlpt-n4
+美しい	beautiful, pretty, lovely, sweet, pure (heart, friendship, etc.)	美[うつく]しい	I-adjective 		[sound:美しい.mp3]	jlpt-n4
+試験	examination, exam, test	試験[しけん]	Noun, Suru verb, Transitive verb	trial, experiment, test	[sound:試験.mp3]	jlpt-n4
+親切	kind, gentle, considerate, generous, friendly, nice	親切[しんせつ]	Na-adjective , Noun		[sound:親切.mp3]	jlpt-n4
+失敗	failure, mistake, blunder	失敗[しっぱい]	Noun, Suru verb, Transitive verb, Intransitive verb		[sound:失敗.mp3]	jlpt-n4
+以上	not less than ..., ... and over, ... and above, ... and upwards, ... or more	以上[いじょう]	Noun, used as a suffix	"beyond (e.g. one's expectations), above, more than, further than; the above, the above-mentioned, the aforementioned, the foregoing; since ..., seeing that ..., now that ..., once ...; that's all, that is the end, the end"	[sound:以上.mp3]	jlpt-n4
+意見	opinion, view, comment	意見[いけん]	Noun	scolding, reprimand, rebuke, admonition, cautioning, warning	[sound:意見.mp3]	jlpt-n4
+決して	(not) ever, (not) by any means, (not) in the least, (not) in any way, (not) at all	決[けっ]して	Adverb 			jlpt-n4
+十分	enough, sufficient, plenty, adequate, satisfactory	十分[じゅうぶん]	Na-adjective 	sufficiently, fully, thoroughly, well, perfectly; division into ten		jlpt-n4
+試合	match, game, bout, contest	試合[しあい]	Noun, Suru verb, Intransitive verb		[sound:試合.mp3]	jlpt-n4
+一生懸命	"very hard, with utmost effort, as hard as one can, with all one's might, for dear life, eagerly, desperately"	一生懸命[いっしょうけんめい]	Adverb , Na-adjective , Noun		[sound:一生懸命.mp3]	jlpt-n4
+子	child, kid, teenager, youngster, young (non-adult) person	子[こ]	Noun, Noun, used as a suffix	"(one's) child, offspring; young woman; young (animal); offshoot; interest; new share; player who is not a dealer; young geisha, young prostitute; bird egg; -er (often of young women)"	[sound:子.mp3]	jlpt-n1 jlpt-n4
+探す	to search for, to look for, to hunt for, to seek	探[さが]す	"Godan verb with 'su' ending, Transitive verb"	to search (a house, pocket, etc.), to search through, to rummage in (e.g. a drawer), to fish around	[sound:探す.mp3]	jlpt-n2 jlpt-n4
+急ぐ	to hurry, to rush, to hasten, to make something happen sooner	急[いそ]ぐ	"Godan verb with 'gu' ending, Intransitive verb, Transitive verb"		[sound:急ぐ.mp3]	jlpt-n4
+選ぶ	to choose, to select	選[えら]ぶ	"Godan verb with 'bu' ending, Transitive verb"		[sound:選ぶ.mp3]	jlpt-n4
+送る	to send (a thing), to dispatch, to despatch, to transmit	送[おく]る	"Godan verb with 'ru' ending, Transitive verb"	"to take or escort (a person somewhere), to see off (a person); to bid farewell (to the departed), to bury; to spend (time), to live one's life; to pass (down the line); to affix okurigana"	[sound:送る.mp3]	jlpt-n4
+必ず	always, without exception, necessarily, certainly, without fail, positively, invariably	必[かなら]ず	Adverb 		[sound:必ず.mp3]	jlpt-n4
+怒る	"to get angry, to get mad, to lose one's temper"	怒[おこ]る	"Godan verb with 'ru' ending, Intransitive verb"	to scold, to tell (someone) off	[sound:怒る.mp3]	jlpt-n1 jlpt-n4
+最近	recently, lately, these days, nowadays, right now	最近[さいきん]	"Noun, Noun which may take the genitive case particle 'no', Adverb "	nearest, closest	[sound:最近.mp3]	jlpt-n4
+払う	to pay (e.g. money, bill)	払[はら]う	"Godan verb with 'u' ending, Transitive verb"	"to brush off, to wipe away, to clear away, to dust off, to cut off (e.g. branches); to drive away (e.g. one's competitors); to sell off (something unneeded), to dispose of; to pay (e.g. attention), to show (e.g. respect, concern); to make (e.g. effort, sacrifice), to expend, to exert; to move out (of one's own place), to vacate; to sweep (e.g. one's legs), to knock aside; to make a sweeping stroke (in Japanese calligraphy); to reset (an abacus)"	[sound:払う.mp3]	jlpt-n4
+点	dot, spot, point, speck, mark	点[てん]	Noun	"mark (in an exam, etc.), grade, score, points; point (in a game), score, goal, run; point; point, aspect, matter, detail, part, respect, way, viewpoint; (punctuation) mark (e.g. comma, period, decimal point), dot; ""dot"" stroke (in a Chinese character); counter for points, marks, goals, etc.; counter for goods, items, articles of clothing, works of art, etc."	[sound:点.mp3]	jlpt-n4
+合う	to come together, to merge, to unite, to meet	合[あ]う	"Godan verb with 'u' ending, Intransitive verb"	to fit, to match, to suit, to agree with, to be correct; to be profitable, to be equitable; to do ... to each other, to do ... together	[sound:合う.mp3]	jlpt-n4
+決める	"to decide, to choose, to determine, to make up one's mind, to resolve, to set one's heart on, to settle, to arrange, to set, to appoint, to fix"	決[き]める	Ichidan verb, Transitive verb	to clinch (a victory), to decide (the outcome of a match); to persist in doing, to go through with; to always do, to have made a habit of; to take for granted, to assume; to dress up, to dress to kill, to dress to the nines; to carry out successfully (a move in sports, a pose in dance, etc.), to succeed in doing; to immobilize with a double-arm lock (in sumo, judo, etc.); to eat or drink something, to take illegal drugs	[sound:決める.mp3]	jlpt-n4
+笑う	to laugh	笑[わら]う	"Godan verb with 'u' ending, Intransitive verb"	to smile; to sneer, to ridicule; to be dumbfounded, to be flabbergasted	[sound:笑う.mp3]	jlpt-n4
+最初	beginning, outset, first, onset	最初[さいしょ]	"Noun which may take the genitive case particle 'no', Noun, Adverb "		[sound:最初.mp3]	jlpt-n4
+反対	opposition, resistance, antagonism, hostility, objection, dissent	反対[はんたい]	"Noun, Suru verb, Intransitive verb, Noun which may take the genitive case particle 'no', Na-adjective "	reverse, opposite, inverse, contrary	[sound:反対.mp3]	jlpt-n4
+娘	daughter	娘[むすめ]	Noun	girl (i.e. a young, unmarried woman)	[sound:娘.mp3]	jlpt-n4
+理由	reason, pretext, motive	理由[りゆう]	Noun		[sound:理由.mp3]	jlpt-n4
+喜ぶ	to be delighted, to be glad, to be pleased, to rejoice	喜[よろこ]ぶ	"Godan verb with 'bu' ending, Transitive verb, Intransitive verb"	to congratulate; to welcome (a proposal, advice, etc.), to take kindly to; to do with pleasure, to do gladly, to be happy (to do)	[sound:喜ぶ.mp3]	jlpt-n2 jlpt-n4
+昔	the old days, the past, former times, a long time ago	昔[むかし]	"Noun, Noun which may take the genitive case particle 'no', Adverb "	the past ten years, the past decade	[sound:昔.mp3]	jlpt-n4
+約束	"promise, agreement, arrangement, one's word, contract, pact"	約束[やくそく]	Noun, Suru verb, Transitive verb	appointment, engagement, date; convention, rule; destiny, fate	[sound:約束.mp3]	jlpt-n4
+思い出す	to recall, to remember, to recollect	思[おも]い 出[だ]す	"Godan verb with 'su' ending, Transitive verb"		[sound:思い出す.mp3]	jlpt-n4
+変わる	to change, to be transformed, to be altered, to vary	変[か]わる	"Godan verb with 'ru' ending, Intransitive verb"	to move to; to be different, to be uncommon, to be unusual		jlpt-n4
+正しい	right, correct	正[ただ]しい	I-adjective 	proper, righteous, just, honest, truthful, lawful	[sound:正しい.mp3]	jlpt-n4
+落ちる	to fall, to drop, to come down, to crash, to collapse, to cave in, to give way	落[お]ちる	Ichidan verb, Intransitive verb	"to set (of the sun or moon), to sink, to dip, to go down; to decrease (of popularity, quality, speed, sales, etc.), to fall, to drop, to go down, to decline, to deteriorate, to abate (of wind); to be inferior (to), to be not as good (as), to fall short (of); to come off (of dirt, paint, makeup, etc.), to come out (of a stain), to fade (of colour), to be removed (of an illness, possessing spirit, etc.); to disappear (of excess fat), to become thinner, to become leaner; to be left out, to be omitted, to be missing; to fail (an exam), to lose (a contest, election, etc.), to be unsuccessful; to decline (of morals, character, etc.), to become vulgar (e.g. of a conversation), to stoop (to), to sink (so low); to be ruined, to go under, to fall (into hell); to fall (in love, asleep, etc.); to fall (into someone's hands), to be accepted (of a bid), to be won (of a tender), to be honoured (of a bill); to fall into (a trap), to fall for (a trick); to give in; to confess, to own up; to come to (a conclusion, topic, etc.), to arrive at (in the end); to leave (a city, castle, etc.), to (be defeated and) flee; to sink in, to be accepted (in one's heart); to fall (to the enemy), to be defeated; to come in (of money); to fall (upon; of light, a shadow, one's gaze, etc.); to pass out (in judo), to fall unconscious; to go down (of a website, server, etc.), to crash; to log out (of an online game, chat room, etc.), to drop out, to leave, to go offline; to move to deeper water (of a fish in cold weather); to die (of an animal)"	[sound:落ちる.mp3]	jlpt-n1 jlpt-n4
+場所	place, location, spot, position	場所[ばしょ]	Noun	room, space; basho, wrestling tournament	[sound:場所.mp3]	jlpt-n4
+楽しむ	to enjoy, to take pleasure in, to have a good time, to have fun	楽[たの]しむ	"Godan verb with 'mu' ending, Transitive verb"	to look forward to	[sound:楽しむ.mp3]	jlpt-n1 jlpt-n4
+利用	use, utilization, utilisation, application	利用[りよう]	Noun, Suru verb, Transitive verb			jlpt-n4
+間に合う	to be in time (for)	間[ま]に 合[あ]う	"Godan verb with 'u' ending, Intransitive verb"	to serve (suit, meet) the purpose, to be good enough, to be enough, to manage, to make do	[sound:間に合う.mp3]	jlpt-n4
+今度	this time, now	今度[こんど]	Noun, Adverb 	next time, another time, shortly, soon; recently, lately, the other day	[sound:今度.mp3]	jlpt-n4
+予定	plans, arrangement, schedule, program, programme, expectation, estimate	予定[よてい]	Noun, Suru verb, Transitive verb		[sound:予定.mp3]	jlpt-n4
+訪ねる	to visit, to call on, to pay a visit to	訪[たず]ねる	Ichidan verb, Transitive verb		[sound:訪ねる.mp3]	jlpt-n4
+進む	to advance, to go forward	進[すす]む	"Godan verb with 'mu' ending, Intransitive verb"	"to precede, to go ahead (of); to make progress, to improve; to deepen, to heighten; to be fast (of a clock), to be ahead; to do of one's own free will"	[sound:進む.mp3]	jlpt-n4
+赤ん坊	baby, infant	赤[あか]ん 坊[ぼう]	Noun		[sound:赤ん坊.mp3]	jlpt-n2 jlpt-n4
+最後	end, conclusion	最後[さいご]	Noun	"last, final, latest, most recent; no sooner than, once, right after (often having negative consequences); one's final moments"	[sound:最後.mp3]	jlpt-n4
+向かう	to face	向[む]かう	"Godan verb with 'u' ending, Intransitive verb"	to go towards, to head towards		jlpt-n2 jlpt-n4
+通る	to go by, to go past, to go along, to travel along, to pass through, to use (a road), to take (a route), to go via, to go by way of	通[とお]る	"Godan verb with 'ru' ending, Intransitive verb"	"to run (between; of a rail service, bus route, etc.), to operate (between), to connect; to go indoors, to go into a room, to be admitted, to be shown in, to be ushered in, to come in; to penetrate, to pierce, to skewer, to go through, to come through; to permeate, to soak into, to spread throughout; to carry (e.g. of a voice), to reach far; to be passed on (e.g. of a customer's order to the kitchen), to be relayed, to be conveyed; to pass (a test, a bill in the House, etc.), to be approved, to be accepted; to go by (a name), to be known as, to be accepted as, to have a reputation for; to be coherent, to be logical, to be reasonable, to be comprehensible, to be understandable, to make sense; to get across (e.g. of one's point), to be understood; to pass for, to come across as, to seem like; to be straight (e.g. wood grain); to be well-informed, to be wise; to do ... completely, to do ... thoroughly"	[sound:通る.mp3]	jlpt-n4
+興味	interest (in something), curiosity (about something), zest (for)	興味[きょうみ]	Noun		[sound:興味.mp3]	jlpt-n4
+時代	period, epoch, era, age	時代[じだい]	Noun	the times, those days; oldness, ancientness, antiquity; antique, period piece	[sound:時代.mp3]	jlpt-n4
+途中	on the way, en route	途中[とちゅう]	Noun, Adverb 	in the middle of, midway, halfway	[sound:途中.mp3]	jlpt-n1 jlpt-n4
+返事	reply, answer, response	返事[へんじ]	Noun, Suru verb, Intransitive verb		[sound:返事.mp3]	jlpt-n4
+簡単	simple, easy, uncomplicated	簡単[かんたん]	Na-adjective , Noun	brief, quick, light	[sound:簡単.mp3]	jlpt-n4
+深い	deep	深[ふか]い	I-adjective 	profound; dense, thick; close (relationship); intense, strong; late	[sound:深い.mp3]	jlpt-n4
+起こす	to raise, to raise up, to set up, to pick up	起[お]こす	"Godan verb with 'su' ending, Transitive verb"	to wake, to wake up, to waken, to awaken; to cause, to bring about, to lead to, to trigger, to give rise to, to create, to generate (e.g. heat, electricity), to produce; to start, to begin, to launch, to establish, to found, to set up, to open; to plough, to plow, to till; to fall ill with; to transcribe, to write down (what is spoken); to turn over (a card)	[sound:起こす.mp3]	jlpt-n1 jlpt-n4
+夫	husband	夫[おっと]	Noun		[sound:夫.mp3]	jlpt-n4
+一度	once, one time, on one occasion	一度[いちど]	Noun, Adverb 	temporarily, for a moment; one degree, one tone, one musical interval		jlpt-n4
+運ぶ	to carry, to transport, to move, to convey	運[はこ]ぶ	"Godan verb with 'bu' ending, Transitive verb"	to come, to go; to use (a brush, chopsticks, etc.), to move; to carry out, to proceed with, to arrange; to go (well, etc.), to proceed, to progress	[sound:運ぶ.mp3]	jlpt-n4
+今夜	this evening, tonight	今夜[こんや]	Noun, Adverb 		[sound:今夜.mp3]	jlpt-n4
+盗む	to steal	盗[ぬす]む	"Godan verb with 'mu' ending, Transitive verb"	to plagiarize, to steal (a technique, idea, etc.), to watch and learn; to do stealthily; to do during scant time; to steal a base	[sound:盗む.mp3]	jlpt-n4
+習慣	habit	習慣[しゅうかん]	Noun	(social) custom, practice, convention	[sound:習慣.mp3]	jlpt-n4
+大抵	mostly, ordinarily, usually, generally	たいてい	Na-adjective , Adverb , Noun	probably; most, almost all; ordinary; proper, appropriate, moderate	[sound:たいてい.mp3]	jlpt-n3 jlpt-n4 usually_kana
+上がる	to rise, to go up, to come up, to ascend, to be raised	上[あ]がる	"Godan verb with 'ru' ending, Intransitive verb"	"to enter (esp. from outdoors), to come in, to go in; to enter (a school), to advance to the next grade; to get out (of water), to come ashore; to increase; to improve, to make progress; to be promoted, to advance; to be made (of profit, etc.); to occur (esp. of a favourable result); to be adequate (to cover expenses, etc.); to be finished, to be done, to be over; to stop (of rain), to lift; to stop (working properly), to cut out, to give out, to die; to win (in a card game, etc.); to be arrested; to turn up (of evidence, etc.); to be deep fried; to be spoken loudly; to get nervous, to get stage fright; to be offered (to the gods, etc.); to go, to visit; to eat, to drink; to be listed (as a candidate); to serve (in one's master's home); to be complete, to finish; above, north of"	[sound:上がる.mp3]	jlpt-n1 jlpt-n4
+残る	to remain, to be left	残[のこ]る	"Godan verb with 'ru' ending, Intransitive verb"		[sound:残る.mp3]	jlpt-n4
+席	seat	席[せき]	Noun	location (of a gathering, etc.), place; position, post	[sound:席.mp3]	jlpt-n4
+値段	price, cost	値段[ねだん]	Noun		[sound:値段.mp3]	jlpt-n3 jlpt-n4
+将来	future, (future) prospects	将来[しょうらい]	Noun, Adverb 	bringing (from abroad, another region, etc.); bringing about, giving rise to, causing, incurring	[sound:将来.mp3]	jlpt-n4
+優しい	tender, kind, gentle, graceful, affectionate, amiable	優[やさ]しい	I-adjective 		[sound:優しい.mp3]	jlpt-n4
+致す	to do	いたす	"Godan verb with 'su' ending, Transitive verb"		[sound:いたす.mp3]	humble jlpt-n4 usually_kana
+空気	air, atmosphere	空気[くうき]	Noun	"mood, situation; someone with no presence, someone who doesn't stand out at all"	[sound:空気.mp3]	jlpt-n4
+逃げる	"to run away, to flee, to get away (e.g. from danger), to escape, to break out, to leave (e.g. one's spouse)"	逃[に]げる	Ichidan verb, Intransitive verb	to avoid (a question, responsibility, etc.), to evade, to dodge, to shirk, to back away; to win without being overtaken, to hold off the other contenders (until the finish), to keep the lead (and win); to escape (of heat, a gas, etc.), to leak out (e.g. of a scent), to be lost (e.g. of flavor); to fail to hold an ideal posture	[sound:逃げる.mp3]	jlpt-n4
+役に立つ	to be helpful, to be useful	役[やく]に 立[た]つ	"Expressions , Godan verb with 'tsu' ending"		[sound:役に立つ.mp3]	jlpt-n4
+予約	reservation, appointment, booking, advance order	予約[よやく]	Noun, Suru verb, Transitive verb	contract, subscription, pledge; programming (e.g. a device), setting (e.g. a timer)	[sound:予約.mp3]	jlpt-n4
+機会	chance, opportunity, occasion	機会[きかい]	Noun		[sound:機会.mp3]	jlpt-n4
+原因	cause, origin, source	原因[げんいん]	Noun, Suru verb, Intransitive verb		[sound:原因.mp3]	jlpt-n4
+火事	fire, conflagration	火事[かじ]	Noun			jlpt-n4
+泥棒	thief, burglar, robber	泥棒[どろぼう]	Noun	theft, burglary, robbery	[sound:泥棒.mp3]	jlpt-n4
+髪	hair (on the head)	髪[かみ]	Noun		[sound:髪.mp3]	jlpt-n4
+行う	to perform, to do, to conduct oneself, to carry out	行[おこな]う	"Godan verb with 'u' ending, Transitive verb"		[sound:行う.mp3]	jlpt-n4
+見つかる	to be found, to be discovered	見[み]つかる	"Godan verb with 'ru' ending, Intransitive verb"			jlpt-n2 jlpt-n4
+代わり	substitute, replacement, substituting, replacing	代[か]わり	"Noun, Noun which may take the genitive case particle 'no'"	stand-in, proxy, alternate, deputy, relief, successor; compensation, exchange, return; another helping, second helping, seconds, refill; upcoming program, upcoming programme	[sound:代わり.mp3]	jlpt-n4
+打つ	to hit, to strike, to knock, to beat, to punch, to slap, to tap, to bang, to clap, to pound	打[う]つ	"Godan verb with 'tsu' ending, Transitive verb"	to strike (noon, etc.), to sound (cymbals, etc.), to beat (a drum, etc.); to beat (rhythmically, e.g. pulse, waves, etc.); to move, to impress, to touch; to drive in, to hammer in, to put in, to inject, to vaccinate; to type, to send, to transmit; to insert, to write in, to mark; to make (noodles, etc.), to prepare; to till (soil); to sprinkle, to throw, to cast; to do, to carry out, to play, to perform, to engage in (gambling, etc.); to pay (a deposit, etc.); to visit (on a pilgrimage); to line (a coat); to bind (a criminal); to drop (a piece)	[sound:打つ.mp3]	jlpt-n4
+増える	to increase, to multiply	増[ふ]える	Ichidan verb, Intransitive verb		[sound:増える.mp3]	jlpt-n2 jlpt-n4
+厳しい	severe, strict, rigid, unsparing, relentless	厳[きび]しい	I-adjective 	hard (to do), difficult, tricky; intense (e.g. cold), harsh (weather), inclement	[sound:厳しい.mp3]	jlpt-n4
+迎える	to go out to meet, to receive, to welcome, to greet, to salute, to hail	迎[むか]える	Ichidan verb, Transitive verb	"to call for, to summon, to invite; to accept (e.g. as a member of a group or family), to take (e.g. a wife); to reach (a certain time, a point in one's life, etc.), to enter (a new phase, new era, etc.), to approach (e.g. death)"	[sound:迎える.mp3]	jlpt-n4
+怖い	scary, frightening, eerie, dreadful	怖[こわ]い	I-adjective 		[sound:怖い.mp3]	jlpt-n4
+紹介	introduction, presentation, referral, showcase (of a product)	紹介[しょうかい]	Noun, Suru verb, Transitive verb		[sound:紹介.mp3]	jlpt-n4
+社長	company president, manager, director	社長[しゃちょう]	Noun		[sound:社長.mp3]	jlpt-n4
+集める	to collect, to assemble, to gather	集[あつ]める	Ichidan verb, Transitive verb		[sound:集める.mp3]	jlpt-n4
+事務所	office	事務所[じむしょ]	Noun		[sound:事務所.mp3]	jlpt-n4
+星	star (usu. excluding the Sun), planet (usu. excluding Earth), heavenly body	星[ほし]	Noun	"star (glyph, symbol, shape), asterisk; star (actor, player, etc.); dot, spot, fleck; bullseye; perp, perpetrator, culprit, offender, suspect; one's star (that determines one's fate), one's fortune; point, score; star point (intersection marked with a dot), hoshi; (pyrotechnic) star"	[sound:星.mp3]	jlpt-n4
+特に	particularly, especially, in particular, expressly	特[とく]に	Adverb 		[sound:特に.mp3]	jlpt-n4
+集まる	to gather, to collect, to assemble	集[あつ]まる	"Godan verb with 'ru' ending, Intransitive verb"		[sound:集まる.mp3]	jlpt-n1 jlpt-n4
+比べる	to compare, to make a comparison	比[くら]べる	Ichidan verb, Transitive verb	to compete, to vie	[sound:比べる.mp3]	jlpt-n4
+無理	unreasonable, unnatural, unjustifiable	無理[むり]	Na-adjective , Noun	impossible; forcible, forced, compulsory; excessive (work, etc.), immoderate; to work too hard, to try too hard; no way, not a chance, never, dream on; irrational		jlpt-n4
+用意	preparation, arrangements, provision, getting ready, laying out (e.g. a meal)	用意[ようい]	Noun, Suru verb, Transitive verb			jlpt-n4
+落とす	"to drop, to lose, to let fall, to shed (light), to cast (one's gaze), to pour in (liquid), to leave behind"	落[お]とす	"Godan verb with 'su' ending, Transitive verb"	"to clean off (dirt, makeup, paint, etc.), to remove (e.g. stains or facial hair), to lose, to spend money at a certain place, to omit, to leave out, to secretly let escape; to lose (a match), to reject (an applicant), to fail (a course), to defeat (in an election); to lower (e.g. shoulders or voice), to lessen (e.g. production or body weight), to worsen (quality), to reduce (e.g. rank or popularity), to speak badly of, to make light of, to fall into straitened circumstances; to fall into (e.g. a dilemma or sin), to make one's own, to have one's bid accepted, to force surrender, to take (e.g. an enemy camp or castle), to forcefully convince, to press for a confession, to deal with; to download, to copy from a computer to another medium; to make someone swoon (judo); to finish a story (e.g. with the punch line); to finish (a period, e.g. of fasting); to win over, to seduce, to conquer (unwillingness)"	[sound:落とす.mp3]	jlpt-n1 jlpt-n4
+具合	condition, state	具合[ぐあい]	Noun	health, state (of health); way, manner; circumstance, luck; face, dignity, decency, propriety		jlpt-n4
+壊れる	to be broken, to break, to fall apart, to collapse, to be destroyed, to be damaged	壊[こわ]れる	Ichidan verb, Intransitive verb	"to break (down), to stop working; to fall through (of a plan, deal, etc.), to collapse, to break down (of a relationship, negotiations, etc.), to be broken off, to be ruined (of an atmosphere, one's image, etc.)"	[sound:壊れる.mp3]	jlpt-n4
+倒れる	to fall (over, down), to collapse, to take a fall, to topple	倒[たお]れる	Ichidan verb, Intransitive verb	to be destroyed (in a collapse), to collapse, to cave in, to crumble, to give away; to be confined to bed (with an illness), to come down with, to break down (e.g. from overwork); to die, to be killed; to go bankrupt (of a company, bank, etc.), to fail, to collapse, to go under; to be defeated (in a game), to lose; to fall (of a government, dictator, etc.), to be overthrown	[sound:倒れる.mp3]	jlpt-n4
+味	flavor, flavour, taste	味[あじ]	Noun	charm, appeal, uniqueness, attractiveness; experience, taste (e.g. of victory); smart, clever, witty, strange	[sound:味.mp3]	jlpt-n4
+安全	safety, security	安全[あんぜん]	Noun, Na-adjective 		[sound:安全.mp3]	jlpt-n4
+変	strange, odd, peculiar, weird, curious, eccentric, funny, suspicious, fishy	変[へん]	Na-adjective 	unexpected; change; incident, disturbance, disaster, accident, emergency; flat	[sound:変.mp3]	jlpt-n4
+祖母	grandmother	祖母[そぼ]	Noun		[sound:祖母.mp3]	jlpt-n4
+連絡	contacting, (making) contact, getting in touch, communication, correspondence, call, message	連絡[れんらく]	Noun, Suru verb, Transitive verb	connection (with a train, bus, etc.), joining (a railway line, etc.), meeting; connection (between matters, incidents, etc.), relation, link		jlpt-n4
+大事	important, serious, crucial	大事[だいじ]	Na-adjective 	valuable, precious; serious matter, major incident, matter of grave concern, crisis; great undertaking, great enterprise, great thing; safe, OK	[sound:大事.mp3]	jlpt-n1 jlpt-n4
+壊す	to break, to destroy, to demolish	壊[こわ]す	"Godan verb with 'su' ending, Transitive verb"	to wreck, to ruin, to spoil, to damage; to break (a bill, etc.)	[sound:壊す.mp3]	jlpt-n4
+下がる	to come down, to go down, to fall, to drop, to sink, to get lower	下[さ]がる	"Godan verb with 'ru' ending, Intransitive verb"	to hang, to dangle; to move back, to step back, to withdraw, to retire; to deteriorate, to fall off, to be downgraded; to get closer to the present day; below, south of	[sound:下がる.mp3]	jlpt-n1 jlpt-n4
+決まる	to be decided, to be settled, to be fixed, to be arranged	決[き]まる	"Godan verb with 'ru' ending, Intransitive verb"	to be unchanging, to be the same (as always), to be fixed, to be set; to be a fixed rule, to be destined, to be a convention, to be a custom, to be common knowledge; to be well executed (of a manoeuvre in a sport, game, etc.), to go well, to succeed, to connect (of a punch); to look good (of clothing), to look sharp, to be stylish, to suit one, to be held in place (of a hairdo); to be struck and held (of a pose in kabuki)	[sound:決まる.mp3]	jlpt-n1 jlpt-n4
+楽しみ	enjoyment, pleasure, amusement, delight, joy, fun, diversion, hobby	楽[たの]しみ	Noun, Na-adjective 	anticipation, looking forward to, something to look forward to	[sound:楽しみ.mp3]	jlpt-n4
+確か	sure, certain, positive, definite	確[たし]か	Na-adjective , Noun	"reliable, trustworthy, safe, sound, firm, accurate, correct, exact; If I'm not mistaken, If I remember correctly, If I remember rightly"		jlpt-n4
+汽車	train (esp. long distance train)	汽車[きしゃ]	Noun	steam train	[sound:汽車.mp3]	jlpt-n4
+可笑しい	funny, amusing, comical, laughable, ridiculous	おかしい	I-adjective 	strange, odd, funny, peculiar, weird, wrong, unusual, eccentric; wrong, unsuitable, improper, inappropriate, unbecoming; suspicious		jlpt-n1 jlpt-n4 usually_kana
+隅	corner, nook, recess	隅[すみ]	Noun, Noun, used as a suffix	downstage right (on a noh stage)		jlpt-n4
+競争	competition, contest, rivalry, race	競争[きょうそう]	Noun, Suru verb, Transitive verb, Intransitive verb	competition (between organisms or species)	[sound:競争.mp3]	jlpt-n4
+入院	hospitalization, hospitalisation	入院[にゅういん]	Noun, Suru verb, Intransitive verb			jlpt-n4
+形	form, shape, figure	形[かたち]	Noun	visage	[sound:形.mp3]	jlpt-n3 jlpt-n4
+仕方	way, method, means, resource, course	仕方[しかた]	Noun		[sound:仕方.mp3]	jlpt-n4
+景色	scenery, scene, landscape	景色[けしき]	Noun		[sound:景色.mp3]	jlpt-n4
+留守	absence, being away from home	留守[るす]	"Noun, Suru verb, Noun which may take the genitive case particle 'no'"	"house-sitting, house-sitter; being left unattended to (of one's studies, etc.), neglecting"	[sound:留守.mp3]	jlpt-n4
+首	neck	首[くび]	Noun	head; dismissal (from a job), firing, sacking	[sound:首.mp3]	jlpt-n4
+君	you, buddy, pal	君[きみ]	Pronoun	"monarch, ruler, sovereign, (one's) master"	[sound:君.mp3]	jlpt-n4
+以内	within, inside of, less than	以内[いない]	Noun, Noun, used as a suffix, Adverb 			jlpt-n4
+血	blood	血[ち]	Noun	blood, ancestry, lineage, stock; (the) blood, feelings, passions	[sound:血.mp3]	jlpt-n4
+例えば	for example, for instance, e.g.	例[たと]えば	Adverb 		[sound:例えば.mp3]	jlpt-n4
+別れる	to part (usu. of people), to part from, to part with, to be apart from	別[わか]れる	Ichidan verb, Intransitive verb	"to separate (of a couple), to break up, to divorce; to lose (e.g. one's mother), to be bereaved"	[sound:別れる.mp3]	jlpt-n4
+棚	shelf, ledge, rack	棚[たな]	Noun	trellis	[sound:棚.mp3]	jlpt-n4
+複雑	complex, complicated, intricate, mixed (feelings)	複雑[ふくざつ]	Na-adjective , Noun		[sound:複雑.mp3]	jlpt-n4
+申し上げる	to say, to tell, to state, to express, to offer, to extend (greetings, congratulations, etc.)	申[もう]し 上[あ]げる	Ichidan verb, Transitive verb	to do		humble jlpt-n4
+引っ越す	to move (house), to change residence	引[ひ]っ 越[こ]す	"Godan verb with 'su' ending, Intransitive verb"		[sound:引っ越す.mp3]	jlpt-n4
+品物	goods, article, thing	品物[しなもの]	Noun			jlpt-n4
+技術	technology, engineering	技術[ぎじゅつ]	Noun	technique, skill; art, craft	[sound:技術.mp3]	jlpt-n4
+ご存じ	knowing, being aware (of)	ご 存[ぞん]じ	Noun	(an) acquaintance		jlpt-n4 respectful
+草	grass, weed, herb, thatch	草[くさ]	Noun	ninja; marijuana, cannabis; not genuine, substandard; LOL, haha	[sound:草.mp3]	jlpt-n4
+以下	not exceeding ..., not more than ..., ... and under, ... and below, ... or fewer	以下[いか]	Noun, used as a suffix	below (a standard, level, etc.), under, beneath, less than; the following, the below-mentioned, the rest, followed by ...; including ..., ... and other (employees, officials, etc.)		jlpt-n4
+倍	double, twice (as much)	倍[ばい]	"Noun, Noun which may take the genitive case particle 'no'"	times (as much), -fold; 1-nth, 1 to n, 1 in n		jlpt-n4
+両方	both, both sides, both parties	両方[りょうほう]	"Noun, Noun which may take the genitive case particle 'no'"		[sound:両方.mp3]	jlpt-n4
+安心	peace of mind, relief, (sense of) security, safety, assurance, confidence	安心[あんしん]	Noun, Na-adjective , Suru verb, Intransitive verb		[sound:安心.mp3]	jlpt-n4
+港	harbour, harbor, port	港[みなと]	Noun			jlpt-n4
+大体	generally, on the whole, mostly, almost, nearly, approximately, roughly, about	だいたい	Adverb 	general, rough; outline, main points, gist, substance, essence; in the first place, first and foremost, from the start, to begin with		jlpt-n4 usually_kana
+線	line, stripe, stria	線[せん]	Noun, Noun, used as a suffix	line (e.g. telephone line), wire; ray (e.g. X-ray), beam; line (e.g. of a railroad), track, route, lane; outline, contours, form; level; division; line (of action), position, approach, policy, principle; impression one leaves, air one gives off	[sound:線.mp3]	jlpt-n4
+下げる	to hang, to suspend, to wear (e.g. decoration)	下[さ]げる	Ichidan verb, Transitive verb	to lower, to reduce, to bring down; to demote, to move back, to pull back; to clear (plates), to remove (food, etc. from table or altar); to keep on playing after one has formed a scoring combination with captured cards	[sound:下げる.mp3]	jlpt-n4
+虫	insect, bug, cricket, moth	虫[むし]	Noun	"worm, roundworm; thing inside one's body believed to influence one's thoughts and feelings, (one's) unconscious; nervousness, fretfulness; person devoted to one thing, single-minded person; valve core; mushi (type of game played with a stripped deck)"	[sound:虫.mp3]	jlpt-n4
+小鳥	small bird, little bird	小鳥[ことり]	Noun			jlpt-n4
+高校生	senior high school student	高校生[こうこうせい]	Noun		[sound:高校生.mp3]	jlpt-n4
+乗り換える	to transfer (trains), to change (bus, train)	乗[の]り 換[か]える	Ichidan verb, Transitive verb	to change (to another ideology, party, company, etc.), to switch (to a different system, method, etc.), to move on to (e.g. a new love interest)	[sound:乗り換える.mp3]	jlpt-n4
+枝	branch, bough, limb, twig, sprig, spray	枝[えだ]	Noun		[sound:枝.mp3]	jlpt-n4
+寺	temple (Buddhist)	寺[てら]	Noun		[sound:寺.mp3]	jlpt-n4
+帰り	return, coming back	帰[かえ]り	Noun			jlpt-n4
+店員	employee (of a store), shop assistant, clerk, salesperson	店員[てんいん]	Noun		[sound:店員.mp3]	jlpt-n4
+終わり	end, ending, close, conclusion	終[お]わり	Noun	"end of (one's) life, death"	[sound:終わり.mp3]	jlpt-n4
+着物	kimono, Japanese traditional clothing (esp. full-length)	着物[きもの]	Noun	clothing, clothes	[sound:着物.mp3]	jlpt-n4
+通う	to go to and from (a place), to go back and forth between, to run between (e.g. bus, train, etc.), to ply between	通[かよ]う	"Godan verb with 'u' ending, Intransitive verb"	to go to (school, work, etc.), to attend, to commute, to frequent; to circulate (e.g. blood, electricity), to be communicated (e.g. thought); to resemble		jlpt-n4
+柔らかい	soft, tender, supple, flexible, limber, limp	柔[やわ]らかい	I-adjective 	gentle, mild, soft, mellow; light (topic, book, etc.), informal; flexible (thinking, mind, etc.), malleable, adaptable	[sound:柔らかい.mp3]	jlpt-n2 jlpt-n4
+騒ぐ	to make noise, to make racket, to be noisy	騒[さわ]ぐ	"Godan verb with 'gu' ending, Intransitive verb"	"to rustle, to swoosh; to make merry; to clamor, to clamour, to make a fuss, to kick up a fuss; to lose one's cool, to panic, to act flustered; to feel tense, to be uneasy, to be excited"	[sound:騒ぐ.mp3]	jlpt-n4
+踏む	to step on, to tread on, to trample on	踏[ふ]む	"Godan verb with 'mu' ending, Transitive verb"	to set foot on (e.g. foreign soil), to stand on, to visit; to experience, to undergo; to follow (rules, principles, etc.), to go through (e.g. formalities), to complete; to estimate, to guess, to judge, to value, to appraise; to rhyme; to succeed to (e.g. the throne)	[sound:踏む.mp3]	jlpt-n4
+丁寧	polite, courteous, civil	丁寧[ていねい]	Na-adjective , Noun	careful, close, thorough, conscientious	[sound:丁寧.mp3]	jlpt-n4
+真ん中	middle, centre, center, midpoint, heart	真[ま]ん 中[なか]	Noun			jlpt-n1 jlpt-n4
+裏	opposite side, bottom, other side, side hidden from view, undersurface, reverse side	裏[うら]	Noun	"rear, back, behind; lining, inside; in the shadows, behind the scenes, offstage, behind (someone's) back; more (to something than meets the eye), hidden side (e.g. of one's personality), unknown circumstances, different side; proof; opposite (of a prediction, common sense, etc.), contrary; inverse (of a hypothesis, etc.); bottom (of an inning), last half (of an inning)"	[sound:裏.mp3]	jlpt-n4
+冷える	to grow cold (from room temperature, e.g. in refrigerator), to get chilly, to cool down	冷[ひ]える	Ichidan verb, Intransitive verb		[sound:冷える.mp3]	jlpt-n4
+飾る	to decorate, to ornament, to adorn	飾[かざ]る	"Godan verb with 'ru' ending, Transitive verb"	to display, to exhibit, to put on show, to arrange; to mark (e.g. the day with a victory), to adorn (e.g. the front page), to grace (e.g. the cover); to affect (a manner), to keep up (appearances), to embellish, to dress up, to be showy, to be pretentious	[sound:飾る.mp3]	jlpt-n4
+遠慮	reserve, constraint, restraint, modesty, diffidence, hesitation, holding back, discretion, tact, thoughtfulness	遠慮[えんりょ]	Noun, Suru verb	declining, refraining; forethought, foresight	[sound:遠慮.mp3]	jlpt-n3 jlpt-n4
+表	surface	表[おもて]	Noun	"face (i.e. the visible side of an object); front (of a building, etc.), obverse side (i.e. ""head"") of a coin; outside, exterior; appearance; public; first half (of an inning), top (of an inning); cover (for tatami mats, etc.); foreground; Omotesenke school of tea ceremony"		jlpt-n4
+都合	circumstances, condition, convenience	都合[つごう]	Noun	arranging, managing; lending money, raising money; in all, in total, all told	[sound:都合.mp3]	jlpt-n4
+暮れる	to get dark, to grow dark	暮[く]れる	Ichidan verb, Intransitive verb	to end (of a day, year, season, etc.), to come to an end, to close; to be sunk in (e.g. despair), to be lost in (e.g. thought), to be overcome with		jlpt-n4
+昼間	daytime, during the day, time from sunrise until sunset, diurnal period	昼間[ひるま]	Noun, Adverb 			jlpt-n1 jlpt-n4
+部長	head (chief, director) of a section or department	部長[ぶちょう]	Noun	head of a (school) club, head of a (school) team		jlpt-n4
+引き出し	drawer	引[ひ]き 出[だ]し	Noun	withdrawal (of money from an account); variety of knowledge and experience useful for handling things impromptu		jlpt-n4
+急	sudden, abrupt, unexpected	急[きゅう]	Na-adjective 	urgent, pressing; steep, sharp, precipitous; rapid, swift, fast; emergency, crisis, danger; urgency, hurrying, haste; (in gagaku or noh) end of a song		jlpt-n4
+久しぶり	a long time (since the last time), first in a long time	久[ひさ]しぶり	"Na-adjective , Noun which may take the genitive case particle 'no', Noun"		[sound:久しぶり.mp3]	jlpt-n1 jlpt-n4
+会場	assembly hall, meeting place, venue, site, grounds	会場[かいじょう]	Noun			jlpt-n4
+急行	hurrying (to somewhere), rushing, hastening	急行[きゅうこう]	"Noun, Suru verb, Noun which may take the genitive case particle 'no'"	express (train)	[sound:急行.mp3]	jlpt-n4
+地理	geography	地理[ちり]	Noun		[sound:地理.mp3]	jlpt-n4
+電灯	electric light	電灯[でんとう]	Noun		[sound:電灯.mp3]	jlpt-n4
+踊り	dance	踊[おど]り	Noun		[sound:踊り.mp3]	jlpt-n4
+又は	or, either ... or ...	または	Conjunction			jlpt-n2 jlpt-n4 usually_kana
+細かい	small	細[こま]かい	I-adjective 	fine, minute; minor, trivial; sensitive, attentive; careful, frugal, stingy	[sound:細かい.mp3]	jlpt-n4
+適当	suitable, proper, appropriate, adequate, fit, fair	適当[てきとう]	Na-adjective , Noun	perfunctory, half-minded, sloppy, lazy, careless, noncommittal, unreliable, irresponsible, haphazard	[sound:適当.mp3]	jlpt-n4
+課長	section manager, section chief	課長[かちょう]	Noun		[sound:課長.mp3]	jlpt-n4
+盛ん	prosperous, flourishing, thriving, successful	盛[さか]ん	Na-adjective 	popular, widespread; active, lively, energetic, vigorous, brisk, strong; enthusiastic, eager, hearty, frequent, repeated		jlpt-n4
+割合	rate, ratio, percentage, proportion	割合[わりあい]	Noun	comparatively; contrary to expectations	[sound:割合.mp3]	jlpt-n4
+暖房	(indoor) heating	暖房[だんぼう]	Noun, Suru verb, Transitive verb		[sound:暖房.mp3]	jlpt-n4
+引き出す	to pull out, to take out, to draw out	引[ひ]き 出[だ]す	"Godan verb with 'su' ending, Transitive verb"	to lead out (e.g. a horse from a stable), to summon (e.g. to court), to bring (e.g. someone to the negotiating table), to drag; to withdraw (money), to draw; to bring out (talent, potential, beauty, flavour, etc.), to extract (information, the truth, etc.), to get (e.g. an answer out of someone), to obtain (e.g. a result), to elicit, to draw (a conclusion), to derive (e.g. pleasure); to get (money) out of someone, to coax out of someone, to get someone to pay, to make someone produce (funds)		jlpt-n2 jlpt-n4
+申す	to say, to be called	申[もう]す	"Godan verb with 'su' ending, Transitive verb"	to do	[sound:申す.mp3]	humble jlpt-n4
+退院	leaving hospital, discharge from hospital	退院[たいいん]	Noun, Suru verb, Intransitive verb			jlpt-n2 jlpt-n4
+売り場	selling area, counter, section, department, sales floor	売[う]り 場[ば]	Noun	favorable time to sell, good time to sell		jlpt-n4
+食料品	foodstuff, groceries	食料品[しょくりょうひん]	Noun			jlpt-n4
+新聞社	newspaper company	新聞社[しんぶんしゃ]	Noun			jlpt-n4
+受付	reception (desk), information desk, receptionist, information clerk	受付[うけつけ]	Noun	receipt, acceptance	[sound:受付.mp3]	jlpt-n4
+苦い	bitter	苦[にが]い	I-adjective 		[sound:苦い.mp3]	jlpt-n4
+講堂	auditorium, lecture hall	講堂[こうどう]	Noun			jlpt-n4
+下宿	boarding, lodging, board and lodging, room and board	下宿[げしゅく]	Noun, Suru verb	boarding house, lodging house, lodgings		jlpt-n4
+不便	inconvenience, inexpediency, unhandiness	不便[ふべん]	Noun, Na-adjective 		[sound:不便.mp3]	jlpt-n4
+写す	to copy, to duplicate, to reproduce, to trace, to transcribe	写[うつ]す	"Godan verb with 'su' ending, Transitive verb"	to describe, to depict, to portray, to express; to imitate, to model after; to take (a photo), to photograph, to film, to shoot	[sound:写す.mp3]	jlpt-n4
+湯	hot water	湯[ゆ]	Noun	hot bath, hot spring; molten iron		jlpt-n4
+工業	(manufacturing) industry	工業[こうぎょう]	Noun		[sound:工業.mp3]	jlpt-n4
+屋上	rooftop	屋上[おくじょう]	Noun			jlpt-n4
+下着	underwear, undergarment, underclothes, lingerie	下着[したぎ]	Noun		[sound:下着.mp3]	jlpt-n4
+冷房	air conditioning, air cooling	冷房[れいぼう]	Noun, Suru verb, Transitive verb		[sound:冷房.mp3]	jlpt-n4
+畳	tatami mat, Japanese straw floor coverings	畳[たたみ]	Noun		[sound:畳.mp3]	jlpt-n4
+お嬢さん	"(another's) daughter"	お 嬢[じょう]さん	Noun	young lady	[sound:お嬢さん.mp3]	jlpt-n4 polite
+沸かす	to boil, to heat (a liquid), to prepare (a bath, hot drink)	沸[わ]かす	"Godan verb with 'su' ending, Transitive verb"	to excite, to rouse, to stir		jlpt-n4
+漬ける	to soak (in), to steep, to dip, to dunk	漬[つ]ける	Ichidan verb, Transitive verb	to pickle, to preserve (in salt, vinegar, etc.)		jlpt-n2 jlpt-n4
+特急	limited express (train for which a limited-express ticket is required)	特急[とっきゅう]	Noun	limited express (train making a limited no. of stops); great hurry	[sound:特急.mp3]	jlpt-n4
+呉れる	to give, to let (one) have	くれる	Ichidan verb - kureru special class, Transitive verb	"to give; to do for one, to take the trouble to do; to do to someone's disadvantage"		jlpt-n1 jlpt-n4 usually_kana
+過ぎる	to pass through, to pass by, to go beyond	過[す]ぎる	Ichidan verb, Intransitive verb	to pass (of time), to elapse; to have expired, to have ended, to be over; to exceed, to surpass, to be above; to be no more than ...; to be excessive, to be too much, to be too ...	[sound:過ぎる.mp3]	jlpt-n4
+積もり	intention, plan, purpose, expectation	つもり	Noun	belief, assumption, thought, conviction; estimate, estimation, calculation		jlpt-n1 jlpt-n4 usually_kana
+殆ど	almost, nearly, mostly, practically, virtually, basically, just about, all but	ほとんど	Adverb 	hardly, barely, scarcely, little; large majority, large proportion, greater part, most (of), almost all (of)		jlpt-n1 jlpt-n4 usually_kana
+止める	to stop, to turn off	止[と]める	Ichidan verb, Transitive verb	"to park; to prevent, to suppress (a cough), to hold back (tears), to hold (one's breath), to relieve (pain); to stop (someone from doing something), to dissuade, to forbid, to prohibit; to notice, to be aware of, to concentrate on, to pay attention to, to remember, to bear in mind; to fix (in place), to fasten, to tack, to pin, to nail, to button, to staple; to detain, to keep in custody"	[sound:止める.mp3]	jlpt-n3 jlpt-n4
+酷い	cruel, heartless, hard, harsh, severe	ひどい	I-adjective 	violent, intense, strong, heavy, extreme; very bad, terrible, awful; excessive, exorbitant, unreasonable, outrageous, unfair, unjust		jlpt-n1 jlpt-n4 usually_kana
+遅れる	to be late, to be delayed, to fall behind schedule, to be overdue	遅[おく]れる	Ichidan verb, Intransitive verb	"to fall behind (in a race, one's studies, etc.), to lag behind, to be behind (the times); to be bereaved of, to be preceded by (someone) in death; to be slow (of a clock or watch)"	[sound:遅れる.mp3]	jlpt-n4
+続ける	to continue, to keep up, to keep on	続[つづ]ける	Ichidan verb, Transitive verb, Auxiliary verb		[sound:続ける.mp3]	jlpt-n4
+手伝う	to help, to assist, to aid	手伝[てつだ]う	"Godan verb with 'u' ending, Transitive verb"	to contribute to, to be a factor in	[sound:手伝う.mp3]	jlpt-n4
+見付ける	to discover, to find (e.g. an error in a book), to come across, to detect, to spot	見付[みつ]ける	Ichidan verb, Transitive verb	to locate, to find (e.g. something missing), to find fault; to be used to seeing, to be familiar with		jlpt-n2 jlpt-n4
+驚く	to be surprised, to be astonished	驚[おどろ]く	"Godan verb with 'ku' ending, Intransitive verb"		[sound:驚く.mp3]	jlpt-n4
+眠る	to sleep	眠[ねむ]る	"Godan verb with 'ru' ending, Intransitive verb"	"to die, to rest (in peace), to lie (buried), to sleep (in the grave); to lie idle (e.g. of resources), to lie unused, to lie untapped, to lie untouched; to close one's eyes"	[sound:眠る.mp3]	jlpt-n4
+勝つ	to win, to gain victory	勝[か]つ	"Godan verb with 'tsu' ending, Intransitive verb"		[sound:勝つ.mp3]	jlpt-n4
+聞こえる	"to be heard, to be audible, to reach one's ears"	聞[き]こえる	Ichidan verb, Intransitive verb	"to sound (like), to come across (as); to be well known, to be famous; to accept (someone's words), to agree, to understand"	[sound:聞こえる.mp3]	jlpt-n4
+尋ねる	to ask, to enquire, to inquire	尋[たず]ねる	Ichidan verb, Transitive verb	to search, to look for, to look into, to investigate	[sound:尋ねる.mp3]	jlpt-n4
+慣れる	to get used to, to grow accustomed to, to become familiar with	慣[な]れる	Ichidan verb, Intransitive verb	to become skilled in, to become experienced at; to become tame, to become domesticated; to get used to doing	[sound:慣れる.mp3]	jlpt-n2 jlpt-n4
+泣く	to cry, to weep, to sob, to howl	泣[な]く	"Godan verb with 'ku' ending"		[sound:泣く.mp3]	jlpt-n4
+屹度	surely, undoubtedly, almost certainly, most likely (e.g. 90 percent)	きっと	Adverb 	sternly, severely; having no slack, rigid, stiff, tight; suddenly, abruptly, instantly		jlpt-n1 jlpt-n4 usually_kana
+似る	to resemble, to look like, to be like, to be alike, to be similar, to take after	似[に]る	Ichidan verb, Intransitive verb		[sound:似る.mp3]	jlpt-n4
+戻る	to turn back (e.g. half-way)	戻[もど]る	"Godan verb with 'ru' ending, Intransitive verb"	to return, to go back; to recover (e.g. something lost), to be returned; to rebound, to spring back	[sound:戻る.mp3]	jlpt-n4
+調べる	to examine, to look up, to investigate, to check up, to sense, to study, to inquire, to search	調[しら]べる	Ichidan verb, Transitive verb		[sound:調べる.mp3]	jlpt-n4
+伝える	to convey, to report, to transmit, to communicate, to tell, to impart, to propagate, to teach, to bequeath	伝[つた]える	Ichidan verb, Transitive verb		[sound:伝える.mp3]	jlpt-n4
+筈	should (be), bound (to be), expected (to be), must (be)	はず	Auxiliary	nock (of a bow); nock (of an arrow); nock-shaped grip (between thumb and forefinger); wooden frame on the tip of the mast of a Japanese ship that prevents the hawser from falling out		jlpt-n1 jlpt-n4 usually_kana
+無くなる	to be lost (e.g. luggage), to be missing	なくなる	"Godan verb with 'ru' ending, Intransitive verb"	to be used up, to be run out, to be exhausted, to be consumed, to be reduced to zero, to not occur any more; to disappear (e.g. pain), to be lost (e.g. a dream, confidence)	[sound:なくなる.mp3]	jlpt-n4 usually_kana
+動く	to move, to stir, to shift, to shake, to swing	動[うご]く	"Godan verb with 'ku' ending, Intransitive verb"	to operate, to run, to go, to work; to make a move, to take action, to act, to go into action; to be touched, to be influenced; to change, to vary, to fluctuate, to waver; to be transferred	[sound:動く.mp3]	jlpt-n4
+知らせる	to notify, to advise, to inform	知[し]らせる	Ichidan verb, Transitive verb			jlpt-n4
+続く	to continue, to last, to go on	続[つづ]く	"Godan verb with 'ku' ending, Intransitive verb"	to continue (without a break), to be unbroken; to occur again and again; to lead to, to connect to, to adjoin; to come after, to follow, to succeed, to rank next to; to hold out, to keep, to last	[sound:続く.mp3]	jlpt-n4
+別	distinction, difference, discrimination	別[べつ]	Noun	separate, different, another, extra; exception, exclusion; classified by, ranked by, according to		jlpt-n4
+鳴る	to sound, to ring, to resound, to echo, to roar, to rumble	鳴[な]る	"Godan verb with 'ru' ending, Intransitive verb"		[sound:鳴る.mp3]	jlpt-n4
+市	city	市[し]	Noun, Noun, used as a suffix		[sound:市.mp3]	jlpt-n4
+負ける	to lose, to be defeated	負[ま]ける	Ichidan verb, Intransitive verb	to succumb, to give in, to surrender, to yield; to be inferior to; to break out in a rash due to (e.g. lacquer, shaving, etc.); to reduce the price, to give a discount, to throw in (something extra) for free	[sound:負ける.mp3]	jlpt-n4
+悲しい	sad, miserable, unhappy, sorrowful	悲[かな]しい	I-adjective 	sad, lamentable, deplorable, grievous	[sound:悲しい.mp3]	jlpt-n4
+亡くなる	to die, to pass away	亡[な]くなる	"Godan verb with 'ru' ending, Intransitive verb"		[sound:亡くなる.mp3]	jlpt-n4
+以外	excluding, except (for), apart from, other than, besides, in addition to	以外[いがい]	Noun, used as a suffix	outside (a boundary, scope, etc.)	[sound:以外.mp3]	jlpt-n4
+治す	"to repair, to mend, to fix, to correct (a mistake, bad habit, etc.), to put right, to restore, to straighten (e.g. a tie), to tidy up (one's hair, make-up, etc.), to revive (one's spirits)"	治[なお]す	"Godan verb with 'su' ending, Transitive verb"	to change, to alter, to convert, to translate; to put back, to put away; to cure, to heal; to move up, to promote; to do over again, to redo	[sound:治す.mp3]	jlpt-n2 jlpt-n4
+暫く	for a moment, for a minute	しばらく	Adverb , Suru verb	"for a while, for some time; for the time being, for now; it's been a long time, long time no see"	[sound:しばらく.mp3]	jlpt-n1 jlpt-n4 usually_kana
+回る	to turn, to rotate, to revolve, to spin	回[まわ]る	"Godan verb with 'ru' ending, Intransitive verb"	"to go around, to circle, to revolve around, to orbit; to make the rounds (of), to go around (several places), to travel around, to make a tour of, to patrol; to go by way of, to go via, to stop by (on the way), to take a roundabout route, to make a detour; to move around (to another place or position), to come around, to go over (e.g. to the opposing side); to come around (of one's turn), to be passed around (of a cup, circular, etc.); to function, to work well; to spread, to extend (to; e.g. of one's attention), to reach, to take effect (of alcohol, poison, etc.); to pass (a time), to turn (e.g. 5 o'clock); to earn interest; to ... around, to ... about"	[sound:回る.mp3]	jlpt-n4
+間違える	to make a mistake (in), to commit an error (e.g. in calculation)	間違[まちが]える	Ichidan verb, Transitive verb	to confuse, to mistake something for something else		jlpt-n4
+確り	tightly (holding on), firmly, securely	しっかり	"Adverb , Adverb taking the 'to' particle, Suru verb"	strongly (built), solidly, sturdily, steadily; properly, well, sufficiently, hard (working, etc.), fully, completely; reliably, dependably, levelheadedly, shrewdly, wisely, cleverly		jlpt-n1 jlpt-n4 usually_kana
+捨てる	to throw away, to cast away, to dump, to discard	捨[す]てる	Ichidan verb, Transitive verb	to abandon, to desert, to leave; to give up, to resign	[sound:捨てる.mp3]	jlpt-n2 jlpt-n4
+育てる	to raise, to rear, to bring up	育[そだ]てる	Ichidan verb, Transitive verb	to train, to teach, to educate; to promote the growth of, to nurture, to foster, to develop	[sound:育てる.mp3]	jlpt-n4
+褒める	to praise, to commend, to compliment, to speak well of, to speak highly of	褒[ほ]める	Ichidan verb, Transitive verb		[sound:褒める.mp3]	jlpt-n3 jlpt-n4
+石	stone	石[いし]	Noun	jewel, precious stone; flint (in a lighter); stone; stone (in the bladder, kidney etc.), calculus	[sound:石.mp3]	jlpt-n4
+恥ずかしい	embarrassing, embarrassed, ashamed, humiliated, shy	恥[は]ずかしい	I-adjective 	disgraceful, shameful	[sound:恥ずかしい.mp3]	jlpt-n4
+塗る	to paint, to plaster, to lacquer, to varnish, to spread, to smear, to put up (wallpaper)	塗[ぬ]る	"Godan verb with 'ru' ending, Transitive verb"		[sound:塗る.mp3]	jlpt-n4
+泊まる	to stay at (e.g. hotel)	泊[と]まる	"Godan verb with 'ru' ending, Intransitive verb"	to be docked, to be berthed, to be moored	[sound:泊まる.mp3]	jlpt-n4
+片付ける	to tidy up, to put in order, to straighten up, to put away	片付[かたづ]ける	Ichidan verb, Transitive verb	to settle (problem), to clear (dispute); to finish, to bring something to an end; to marry off (e.g. a daughter); to do away with someone, to bump someone off		jlpt-n4
+止む	to cease, to stop, to be over	止[や]む	"Godan verb with 'mu' ending, Intransitive verb"			jlpt-n4
+遠く	far away, distant place, a (great) distance, a long way off, afar	遠[とお]く	"Noun, Adverb , Noun which may take the genitive case particle 'no'"	long ago, far back, far (into the future); by far		jlpt-n4
+済む	to finish, to end, to be completed	済[す]む	"Godan verb with 'mu' ending, Intransitive verb"	to merely result in something less severe than expected; to feel at ease; to feel unease or guilt for troubling someone, to be sorry	[sound:済む.mp3]	jlpt-n4
+到頭	finally, at last, in the end, ultimately	とうとう	Adverb 			jlpt-n4 usually_kana
+捕まえる	to catch, to capture, to arrest, to seize, to restrain	捕[つか]まえる	Ichidan verb, Transitive verb	"to grab, to clutch, to grasp, to seize, to hold on to; to catch hold of (someone), to stop (e.g. a stranger in the street), to hail (a taxi, waiter, etc.), to hold (someone) back, to detain; towards (someone), at (someone), in (someone's) face"		jlpt-n4
+踊る	to dance (orig. a hopping dance)	踊[おど]る	"Godan verb with 'ru' ending, Intransitive verb"	"to be manipulated, to dance to someone's tune"	[sound:踊る.mp3]	jlpt-n4
+足りる	to be sufficient, to be enough	足[た]りる	Ichidan verb, Intransitive verb	to be worth doing, to be worthy of, to deserve; to do (the job), to serve, to answer	[sound:足りる.mp3]	jlpt-n4
+治る	to get better, to get well, to recover (from an illness), to be cured, to be restored, to heal	治[なお]る	"Godan verb with 'ru' ending, Intransitive verb"			jlpt-n4
+為さる	to do	なさる	Godan verb - -aru special class, Transitive verb			jlpt-n1 jlpt-n4 respectful usually_kana
+硬い	hard, solid, tough	硬[かた]い	I-adjective 	stiff, tight, wooden, unpolished (e.g. writing); strong, firm (not viscous or easily moved); safe, steady, honest, steadfast; obstinate, stubborn; bookish, formal, stuffy	[sound:硬い.mp3]	jlpt-n2 jlpt-n3 jlpt-n4
+建てる	to build, to construct	建[た]てる	Ichidan verb, Transitive verb		[sound:建てる.mp3]	jlpt-n4
+凄い	terrible, dreadful	すごい	I-adjective 	amazing (e.g. of strength), great (e.g. of skills), wonderful, terrific; to a great extent, vast (in numbers); awfully, very, immensely		jlpt-n3 jlpt-n4 usually_kana
+謝る	to apologize, to apologise	謝[あやま]る	"Godan verb with 'ru' ending"		[sound:謝る.mp3]	jlpt-n4
+此れから	from now on, after this, in the future, in future	これから	Expressions 	from here, from this point		jlpt-n4 usually_kana
+立てる	to stand up, to put up, to set up, to erect, to raise	立[た]てる	Ichidan verb, Transitive verb	"to thrust into, to bury into, to dig into; to make (a noise), to start (a rumour), to raise (a cloud of dust, etc.), to cause; to make, to establish, to set up, to develop, to formulate; to put up (a political candidate), to make (one's leader); to treat with respect, to give (someone) their due, to make (someone) look good, to avoid embarrassing (someone); to sharpen, to make clear; to shut, to close; to make tea (matcha), to perform the tea ceremony; to divide by; to do ... vigorously"	[sound:立てる.mp3]	jlpt-n4
+寂しい	lonely, lonesome, solitary, desolate	寂[さび]しい	I-adjective 			jlpt-n4
+濡れる	to get wet	濡[ぬ]れる	Ichidan verb, Intransitive verb			jlpt-n3 jlpt-n4
+投げる	to throw, to hurl, to fling, to toss, to cast	投[な]げる	Ichidan verb, Transitive verb	to give up, to abandon, to throw away; to cast (a glance, shadow, doubt, etc.)	[sound:投げる.mp3]	jlpt-n4
+太る	to put on weight, to gain weight, to grow fat, to get stout	太[ふと]る	"Godan verb with 'ru' ending, Intransitive verb"		[sound:太る.mp3]	jlpt-n4
+寄る	to approach, to draw near, to come near, to be close to	寄[よ]る	"Godan verb with 'ru' ending, Intransitive verb"	"to gather (in one place), to come together, to meet; to stop by (while on one's way to another place), to drop by, to make a short visit; to grow old, to grow high (number, etc.); to grow (wrinkly); to lean against, to recline on; to push one's opponent while holding their belt; to decide on a price and come to a deal; to be swayed by (a person), to yield to"		jlpt-n4
+歯医者	dentist	歯医者[はいしゃ]	Noun		[sound:歯医者.mp3]	jlpt-n4
+召し上がる	to eat, to drink	召[め]し 上[あ]がる	"Godan verb with 'ru' ending, Transitive verb"			jlpt-n4 respectful
+参る	to go, to come, to call	まいる	"Godan verb with 'ru' ending, Intransitive verb"	to be defeated, to collapse, to die; to be annoyed, to be nonplussed; to be madly in love; to visit (shrine, grave)	[sound:まいる.mp3]	humble jlpt-n4 usually_kana
+珍しい	unusual, rare, curious	珍[めずら]しい	I-adjective 	new, novel; fine (e.g. gift)	[sound:珍しい.mp3]	jlpt-n4
+揺れる	to shake, to sway, to rock, to swing, to tremble, to jolt, to pitch, to roll, to flicker	揺[ゆ]れる	Ichidan verb, Intransitive verb	to become unstable, to become unsettled, to be shaken, to waver	[sound:揺れる.mp3]	jlpt-n4
+祈る	to pray, to say a prayer, to say grace	祈[いの]る	"Godan verb with 'ru' ending, Transitive verb"	to wish, to hope	[sound:祈る.mp3]	jlpt-n4
+硝子	glass, pane	ガラス	Noun			jlpt-n4 usually_kana
+込む	to be crowded, to be packed, to be congested, to be thronged (with)	込[こ]む	"Godan verb with 'mu' ending, Intransitive verb"	to be complex, to be intricate; to go into, to go in, to put into; to become (completely); to do thoroughly, to do sufficiently; to remain (silent, seated, etc.), to stay ...	[sound:込む.mp3]	jlpt-n1 jlpt-n4
+折る	to break, to fracture, to break off, to snap off, to pick (e.g. flowers)	折[お]る	"Godan verb with 'ru' ending, Transitive verb"	to fold, to bend; to make (origami); to interrupt, to end	[sound:折る.mp3]	jlpt-n4
+眠い	sleepy, drowsy, somnolent	眠[ねむ]い	I-adjective 		[sound:眠い.mp3]	jlpt-n4
+大学生	university student, college student	大学生[だいがくせい]	Noun		[sound:大学生.mp3]	jlpt-n4
+お礼	thanks, gratitude	お 礼[れい]	Noun	manners, etiquette; bow; reward, gift; ceremony, ritual	[sound:お礼.mp3]	jlpt-n4 polite
+それ程	to that degree, to that extent, that much	それほど	Adverb 			jlpt-n1 jlpt-n4 usually_kana
+痩せる	"to become thin, to lose weight, to reduce (one's) weight, to slim"	痩[や]せる	Ichidan verb, Intransitive verb	to be barren, to be infertile, to be sterile		jlpt-n4
+偶に	occasionally, once in a while, now and then	たまに	Adverb 		[sound:たまに.mp3]	jlpt-n1 jlpt-n4 usually_kana
+噛む	to bite	噛[か]む	"Godan verb with 'mu' ending, Transitive verb"	"to chew, to gnaw, to masticate; to fumble one's words (esp. during a play, broadcast, etc.), to falter with one's words, to stutter, to stammer; to crash against (e.g. of waves), to break onto (shore); to engage (of cogs, zippers, etc.), to mesh, to fit together; to be involved in; to convince, to persuade"		jlpt-n4
+瓦斯	gas (as a fuel)	ガス	Noun	gas (state of matter); poison gas; dense fog, thick fog; gas stove, gas cooker, gas range; gasoline, gas, petrol; flatulence, gas, wind, fart; gassed yarn		jlpt-n4 usually_kana
+億	hundred million, 100,000,000, 10^8	億[おく]	Numeric		[sound:億.mp3]	jlpt-n4
+触る	to touch, to feel	触[さわ]る	"Godan verb with 'ru' ending, Intransitive verb, Transitive verb"	to get involved (with), to approach; to be harmful to, to hinder, to interfere with, to irritate	[sound:触る.mp3]	jlpt-n4
+掏摸	pickpocket	すり	Noun		[sound:すり.mp3]	jlpt-n2 jlpt-n4 usually_kana
+焼く	to burn	焼[や]く	"Godan verb with 'ku' ending, Transitive verb"	to roast, to broil, to grill, to bake, to toast, to barbecue; to heat, to heat up; to make (charcoal, pottery, bricks, etc.), to bake, to fire, to burn; to tan (i.e. suntan), to burn; to print (a photo), to burn (an optical disc); to be jealous of, to be envious of, to envy	[sound:焼く.mp3]	jlpt-n4
+成程	"I see, that's right, indeed"	なるほど	Adverb 			jlpt-n4 usually_kana
+拾う	to pick up, to gather	拾[ひろ]う	"Godan verb with 'u' ending, Transitive verb"	to find (and pick up; something someone has dropped); to select, to choose, to pick out; to get (unexpectedly), to hit upon (luck, an opportunity, etc.), to snatch (an unexpected victory), to pull off; to pick up (someone in a car); to flag down (a taxi), to hail; to pick up (a signal, sound, interference, etc.); to (just manage to) return (the ball), to return (a difficult shot); to take on (someone in adverse circumstances), to employ, to give a job, to take in; to walk, to go on foot	[sound:拾う.mp3]	jlpt-n4
+割れる	to break, to be smashed	割[わ]れる	Ichidan verb, Intransitive verb	to split, to crack, to fissure, to be torn; to be divided (opinion, vote, etc.), to split (e.g. of a party); to come to light, to become clear, to be identified, to be revealed; to become distorted (of sound), to clip; to be divisible (without a remainder); to drop below a minimum	[sound:割れる.mp3]	jlpt-n4
+滑る	to glide, to slide (e.g. on skis), to slip	滑[すべ]る	"Godan verb with 'ru' ending, Intransitive verb"	to fail (an examination), to bomb (when telling a joke); to drop, to go down, to come down, to fall (e.g. in status)	[sound:滑る.mp3]	jlpt-n2 jlpt-n4
+些とも	(not) at all, (not) a bit, (not) in the least, (not) in the slightest	ちっとも	Adverb 			jlpt-n1 jlpt-n4 usually_kana
+お宅	your house, your home, your family	お 宅[たく]	Noun	your husband; your organization; you		jlpt-n4 respectful
+折れる	to break, to be broken, to snap, to fracture	折[お]れる	Ichidan verb, Intransitive verb	to be folded; to give in, to back down, to yield, to submit; to turn (a corner)		jlpt-n4
+移る	to move (house), to transfer (department)	移[うつ]る	"Godan verb with 'ru' ending, Intransitive verb"	to change the target of interest or concern; to elapse (passage of time); to be permeated by a colour or scent; to be infected, to be contagious, to spread (as in fire)	[sound:移る.mp3]	jlpt-n4
+植える	to plant, to grow, to raise	植[う]える	Ichidan verb, Transitive verb	to insert, to transplant, to implant, to set (type); to inoculate (e.g. an infectious agent); to instill (idea, value, etc.), to inculcate		jlpt-n4
+光る	to shine, to glitter, to be bright	光[ひか]る	"Godan verb with 'ru' ending, Intransitive verb"			jlpt-n4
+字	character (esp. kanji), letter, written text	字[じ]	Noun	"handwriting, penmanship; the ... word (e.g. ""the L word"" = ""love"")"	[sound:字.mp3]	jlpt-n4
+差し上げる	to lift up, to hold up, to raise	差[さ]し 上[あ]げる	Ichidan verb, Transitive verb	to give, to present, to offer; to do (for someone)	[sound:差し上げる.mp3]	jlpt-n4
+焼ける	to burn, to burn down, to go down in flames	焼[や]ける	Ichidan verb, Intransitive verb	to be roasted, to be thoroughly cooked; to be sunburnt, to fade (in the sun); to glow red (i.e. of the sky at sunset); to become hot (from the sun); to be jealous, to be envious	[sound:焼ける.mp3]	jlpt-n4
+取り替える	to exchange, to swap, to barter	取[と]り 替[か]える	Ichidan verb, Transitive verb	to replace, to substitute	[sound:取り替える.mp3]	jlpt-n4
+釣る	to fish, to angle, to catch	釣[つ]る	"Godan verb with 'ru' ending, Transitive verb"	to lure in, to tempt, to attract, to entice, to allure	[sound:釣る.mp3]	jlpt-n4
+乾く	to get dry	乾[かわ]く	"Godan verb with 'ku' ending, Intransitive verb"		[sound:乾く.mp3]	jlpt-n4
+用事	tasks, things to do, errand, business (to take care of), affairs, engagement	用事[ようじ]	Noun		[sound:用事.mp3]	jlpt-n4
+成るべく	as (much) as possible, as (much) as one can, wherever practicable, if possible	なるべく	Adverb 			jlpt-n1 jlpt-n4 usually_kana
+浅い	shallow, superficial	浅[あさ]い	I-adjective 	slight (wound), light (sleep), pale (colour), inadequate (knowledge); short (time), early, young	[sound:浅い.mp3]	jlpt-n4
+苛める	to ill-treat, to bully, to torment, to pick on, to tease, to be cruel to, to persecute	いじめる	Ichidan verb, Transitive verb	"to be tough on (e.g. one's body), to treat harshly"		jlpt-n1 jlpt-n4 usually_kana
+届ける	to deliver, to forward, to send	届[とど]ける	Ichidan verb, Transitive verb	to report, to notify, to file notice (to the authorities), to give notice, to register	[sound:届ける.mp3]	jlpt-n4
+拝見	seeing, looking at	拝見[はいけん]	Noun, Suru verb, Transitive verb			humble jlpt-n2 jlpt-n4 polite
+お土産	local specialty or souvenir bought as a gift while travelling	お 土産[みやげ]	Noun	present brought by a visitor; something unpleasant that one is given (e.g. an illness while on vacation), unwelcome gift, disservice		jlpt-n4 polite
+床屋	barbershop, barber shop, barber	床屋[とこや]	Noun			jlpt-n2 jlpt-n4
+足す	to add (numbers)	足[た]す	"Godan verb with 'su' ending, Transitive verb"	"to add (something), to top up (with something); to take care of (e.g. one's business)"	[sound:足す.mp3]	jlpt-n4
+お釣り	change (for a purchase)	お 釣[つ]り	Noun	toilet splashback		jlpt-n4 polite
+予習	preparation for a lesson	予習[よしゅう]	Noun, Suru verb, Transitive verb			jlpt-n4
+寝坊	sleeping in late, oversleeping	寝坊[ねぼう]	"Noun, Suru verb, Intransitive verb, Na-adjective , Noun which may take the genitive case particle 'no'"	late riser, sleepyhead	[sound:寝坊.mp3]	jlpt-n4
+沸く	to grow hot (e.g. water), to boil	沸[わ]く	"Godan verb with 'ku' ending, Intransitive verb"	to get excited (at), to erupt (in applause, cheering, etc.), to be in a ferment, to take place energetically; to ferment; to melt (of metal)		jlpt-n4
+忘れ物	lost article, thing left behind	忘[わす]れ 物[もの]	Noun	leaving something behind, forgetting something	[sound:忘れ物.mp3]	jlpt-n4
+復習	review (of learned material), revision	復習[ふくしゅう]	Noun, Suru verb, Transitive verb		[sound:復習.mp3]	jlpt-n4
+ご主人	your husband, her husband	ご 主人[しゅじん]	Noun			jlpt-n4 respectful
+再来月	month after next	再来月[さらいげつ]	Noun, Adverb 		[sound:再来月.mp3]	jlpt-n2 jlpt-n4
+再来週	week after next	再来週[さらいしゅう]	Noun, Adverb 		[sound:再来週.mp3]	jlpt-n2 jlpt-n4
+付く	to be attached, to be connected with, to adhere, to stick, to cling	付[つ]く	"Godan verb with 'ku' ending, Intransitive verb"	to remain imprinted, to scar, to stain, to dye; to bear (fruit, interest, etc.); to be acquired (of a habit, ability, etc.), to increase (of strength, etc.); to take root; to accompany, to attend, to follow, to study with; to side with, to belong to; to possess, to haunt; to be lit, to catch fire, to ignite, to be turned on (of a light, appliance, etc.); to be settled, to be resolved, to be decided; to be given (of a name, price, etc.); to be sensed, to be perceived; to be lucky; to become (a state, condition, etc.)	[sound:付く.mp3]	jlpt-n4
+変える	to change, to alter, to transform, to convert, to turn, to vary	変[か]える	Ichidan verb, Transitive verb	to reform, to revise, to amend	[sound:変える.mp3]	jlpt-n4
+阿弗利加	Africa	アフリカ	Noun			jlpt-n4 usually_kana
+斯う	in this way, like this, so, thus	こう	Adverb 	this (much), so; uh, er, mm, well	[sound:こう.mp3]	jlpt-n4 usually_kana
+看護師	(hospital) nurse, registered nurse, RN	看護師[かんごし]	Noun		[sound:看護師.mp3]	jlpt-n4
+降り出す	to begin to rain, to begin to snow	降[ふ]り 出[だ]す	"Godan verb with 'su' ending, Intransitive verb"			jlpt-n4
+けど	but, however, although	けど	Conjunction, Particle			jlpt-n1 jlpt-n2 jlpt-n4
+日	day, days	日[ひ]	Noun	"sun, sunshine, sunlight; (the) day, daytime, daylight; date, deadline; (past) days, time (e.g. of one's childhood); case (esp. unfortunate), event"	[sound:日.mp3]	jlpt-n4
+大分	considerably, greatly, a lot	だいぶ	Adverb 			jlpt-n2 jlpt-n4 usually_kana
+間	space (between), gap, interval, distance, stretch	間[あいだ]	Noun	period of time (during, while), duration, interval; between (two parties or things); among (a group); relations (between), relationship; midpoint, average, halfway, middle ground; due to, because of	[sound:間.mp3]	jlpt-n4
+親	parent, parents, mother and father	親[おや]	Noun	dealer, banker; founder, inventor; (pet) owner; key, parent (organization), main; ancestor, forefather	[sound:親.mp3]	jlpt-n4
+熱	heat	熱[ねつ]	Noun	fever, temperature; zeal, passion, enthusiasm, mania, craze, rage	[sound:熱.mp3]	jlpt-n4
+運転手	driver, chauffeur	運転手[うんてんしゅ]	Noun		[sound:運転手.mp3]	jlpt-n4
+木綿	cotton (material)	木綿[もめん]	Noun	red silk-cotton tree (Bombax ceiba)		jlpt-n1 jlpt-n4
+消しゴム	eraser, rubber	消[け]しゴム	Noun			jlpt-n4
+テニス	tennis	テニス	Noun			jlpt-n4
+ピアノ	piano (instrument)	ピアノ	Noun	piano (dynamic)		jlpt-n4
+コンピュータ	computer	コンピュータ	Noun			jlpt-n3 jlpt-n4
+ケーキ	cake	ケーキ	Noun			jlpt-n4
+カーテン	curtain, curtains	カーテン	Noun			jlpt-n4
+ガソリン	gasoline, petrol	ガソリン	Noun			jlpt-n4
+アルコール	alcohol	アルコール	Noun	alcoholic drink, alcohol; (alcohol-based) hand sanitizer		jlpt-n4
+サンドイッチ	sandwich	サンドイッチ	Noun			jlpt-n4
+オートバイ	motorcycle, motorbike	オートバイ	Noun			jlpt-n4
+サラダ	salad	サラダ	Noun			jlpt-n4
+ソフト	soft	ソフト	"Na-adjective , Noun which may take the genitive case particle 'no'"	software; soft hat, felt hat; soft serve ice cream; softball		jlpt-n4
+テキスト	text	テキスト	Noun	textbook		jlpt-n4
+ガソリンスタンド	gas station, petrol station, filling station	ガソリンスタンド	Noun			jlpt-n4
+ジャム	jam	ジャム	Noun			jlpt-n4
+ステレオ	stereo (sound)	ステレオ	Noun	stereo (player, set); stereo, stereophonic, stereoscopic		jlpt-n4
+アナウンサー	announcer, presenter, broadcaster, reporter	アナウンサー	Noun	in-house television talent who does on-location fluff pieces for variety shows		jlpt-n4
+パート	part	パート	Noun	part-timer; part-time (work)		jlpt-n4
+アクセサリー	accessory (fashion), jewelry	アクセサリー	Noun	accessory (audio, car, camera, etc.)		jlpt-n4
+エスカレーター	escalator	エスカレーター	Noun			jlpt-n4
+あっ	ah, oh	あっ		hey!		jlpt-n4
+スーツケース	suitcase	スーツケース	Noun			jlpt-n4
+ステーキ	steak	ステーキ	Noun			jlpt-n4
+アジア	Asia	アジア	Noun			jlpt-n4 usually_kana
+チェック	check, plaid, checkered	チェック	"Noun, Noun which may take the genitive case particle 'no'"	checking, monitoring, looking over, scrutinizing, inspecting; check (banking), cheque, bill (restaurant); check (chess)		jlpt-n4
+サンダル	sandal	サンダル	Noun			jlpt-n4
+スクリーン	screen	スクリーン	Noun			jlpt-n4
+一杯	one cup (of), one glass (of), one bowl (of), cupful, glassful, bowlful, spoonful	一杯[いっぱい]	"Noun, Noun which may take the genitive case particle 'no'"	one drink (of alcohol); full, filled (with), brimming (with), crowded, packed; fully, to capacity, to the maximum, as much as possible; a lot, much, many; all of ..., the entire ...; one (squid, octopus, crab, etc.); one (boat)	[sound:一杯.mp3]	jlpt-n4
+用	business, task, errand, engagement	用[よう]	Noun	use, purpose; for the use of ..., used for ..., made for ...; call of nature, excretion		jlpt-n4
+レジ	(cash) register	レジ	Noun	checkout (counter), cashier		jlpt-n4
+内	inside, within	内[うち]	Noun, Adverb 	"while (e.g. one is young), during, within (e.g. a day), in the course of; among, amongst, (out) of, between; in (secret, chaos, poverty, etc.), amidst, with (e.g. success); within oneself, one's feelings, inner thoughts; we, our company, our organization; one's home, one's family; my spouse, my husband, my wife; signed on behalf of (husband's name) by his wife; I, me; imperial palace grounds; emperor"	[sound:内.mp3]	jlpt-n3 jlpt-n4
+訳	conclusion from reasoning, judgement or calculation based on something read or heard, reason, cause, meaning, circumstances, situation	わけ	Noun		[sound:わけ.mp3]	jlpt-n4 usually_kana
+お蔭	grace (of God), benevolence (of Buddha), blessing	おかげ	Noun	assistance, help, aid; effects, influence		jlpt-n1 jlpt-n4 usually_kana
+もう直ぐ	soon, shortly, before long, nearly, almost	もうすぐ	Expressions , Adverb 			jlpt-n4 usually_kana
+包む	to wrap up, to pack, to bundle, to do up	包[つつ]む	"Godan verb with 'mu' ending, Transitive verb"	to cover, to envelop, to shroud, to engulf; to conceal (a feeling), to hide; to give (money in an envelope; as a wedding gift, funeral offering, etc.)	[sound:包む.mp3]	jlpt-n1 jlpt-n2 jlpt-n4
+毛	hair	毛[け]	Noun	fur, wool; down, plumage, feathers	[sound:毛.mp3]	jlpt-n4
+泳ぎ方	way of swimming	泳[およ]ぎ 方[かた]	Noun			jlpt-n4
+都	Metropolis (of Tokyo), (Tokyo) Metropolitan District, metropolitan prefecture	都[と]	Noun	counter for cities and towns; capital		jlpt-n4
+家内	(my) wife	家内[かない]	Noun	"inside the home, one's family"		humble jlpt-n4
+お見舞い	calling on someone who is ill, enquiry, inquiry	お 見舞[みま]い	Noun		[sound:お見舞い.mp3]	jlpt-n4
+そう	appearing that, seeming that, looking like, having the appearance of	そう	Auxiliary, Na-adjective 		[sound:そう.mp3]	jlpt-n3 jlpt-n4
+そんな	such, that sort of, that kind of, like that	そんな	Pre-noun adjectival 	no way!, never!		jlpt-n4
+若し	if, in case, supposing	もし	Adverb 			jlpt-n1 jlpt-n4 usually_kana
+非常に	very, extremely, exceedingly	非常[ひじょう]に	Adverb 		[sound:非常に.mp3]	jlpt-n4
+だから	so, therefore, accordingly, consequently, on those grounds, that is why, for that reason	だから	Conjunction	like I said, I told you already		jlpt-n3 jlpt-n4
+はっきり	clearly, plainly, distinctly	はっきり	"Adverb , Adverb taking the 'to' particle"	to be clear, to be definite, to be certain, to be exact, to become clear, to clear up		jlpt-n4
+すっかり	all, completely, totally, entirely, thoroughly	すっかり	"Adverb , Adverb taking the 'to' particle"			jlpt-n4
+コンサート	concert	コンサート	Noun			jlpt-n4
+やっと	at last, finally	やっと	Adverb 	"barely, narrowly, just, by the skin of one's teeth"		jlpt-n4 usually_kana
+あんな	that sort of, that kind of, like that, such, so	あんな	Pre-noun adjectival 			jlpt-n4
+プレゼント	present, gift	プレゼント	Noun, Suru verb, Transitive verb			jlpt-n4
+タイプ	type, kind, sort, style	タイプ	Noun	"type (of person), (ideal) type, one's type; typewriter; typing (on a typewriter)"		jlpt-n4
+レポート	report, paper	レポート	Noun, Suru verb, Transitive verb	reportage		jlpt-n2 jlpt-n3 jlpt-n4
+そろそろ	soon, before long, any time now, momentarily	そろそろ	"Adverb , Adverb taking the 'to' particle"	slowly, quietly, steadily, gradually, gingerly; already, about time		jlpt-n4
+ベル	bell	ベル	Noun			jlpt-n4
+いらっしゃる	to come, to go, to be (somewhere)	いらっしゃる	Godan verb - -aru special class, Intransitive verb	to be (doing)		jlpt-n4 respectful
+其れで	so, therefore, and, (and) then	それで	Conjunction			jlpt-n1 jlpt-n4 usually_kana
+どんどん	drumming (noise), beating, pounding, banging, booming, stamping	どんどん	"Adverb , Adverb taking the 'to' particle"	rapidly, quickly, steadily; continuously, one after the other, in succession		jlpt-n4
+スーツ	suit (clothing)	スーツ	Noun	suit (playing cards)		jlpt-n4
+ワープロ	word processor	ワープロ	Noun			jlpt-n4
+ちゃん	suffix for familiar person	ちゃん	Suffix		[sound:ちゃん.mp3]	jlpt-n4
+汚れる	to get dirty, to become dirty	汚[よご]れる	Ichidan verb, Intransitive verb	"to become sullied, to become corrupted, to lose one's chastity"	[sound:汚れる.mp3]	jlpt-n4
+パソコン	personal computer, PC	パソコン	Noun			jlpt-n4
+ご馳走	treat (esp. food and drink), entertainment, treating someone (to a meal), taking someone to dinner	ご 馳走[ちそう]	Noun, Suru verb, Transitive verb	gorgeous dinner, feast, excellent food, special dish, delicacy		jlpt-n1 jlpt-n2 jlpt-n4 polite
+この頃	these days, nowadays, now, at present, recently, lately	この 頃[ごろ]	Adverb , Noun		[sound:この頃.mp3]	jlpt-n1 jlpt-n4
+ハンドバッグ	handbag, purse	ハンドバッグ	Noun			jlpt-n4
+すると	(and) then, and, thereupon, whereupon	すると	Conjunction	in that case, then, so		jlpt-n3 jlpt-n4
+さっき	a short while ago, a moment ago, just now, some time ago	さっき	Noun, Adverb 			jlpt-n4 usually_kana
+其れに	besides, in addition, also, moreover	それに	Conjunction			jlpt-n1 jlpt-n4 usually_kana
+この間	the other day, lately, recently, during this period	この 間[あいだ]	Noun, Adverb 	meanwhile, in the meantime		jlpt-n1 jlpt-n4
+ファックス	fax, facsimile	ファックス	Noun, Suru verb, Transitive verb	fax machine		jlpt-n4
+すっと	straight, quickly, directly, all of a sudden	すっと	Adverb , Suru verb	quietly, gently, softly; to feel refreshed, to feel satisfied		jlpt-n4
+そんなに	so much, so, like that	そんなに	Adverb 			jlpt-n4
+仰っしゃる	to say, to speak, to tell, to talk	おっしゃる	Godan verb - -aru special class, Transitive verb			jlpt-n1 jlpt-n4 respectful usually_kana
+うん	yes, yeah, uh huh	うん		hum, hmmm, well, erm, huh?; oof	[sound:うん.mp3]	jlpt-n4
+ああ	like that, so	ああ	Adverb 			jlpt-n4
+ご覧になる	to see, to look, to watch	ご 覧[らん]になる	"Expressions , Godan verb with 'ru' ending"	to try to ...		jlpt-n4 respectful
+妻	wife	妻[つま]	Noun	garnish (esp. one served with sashimi), trimmings; accompaniment, side (remark)	[sound:妻.mp3]	jlpt-n4
+気持ち	feeling, sensation, mood, state of mind	気持[きも]ち	Noun	preparedness, readiness, attitude; thought, sentiment, consideration, solicitude, gratitude; slightly, a bit, a little	[sound:気持ち.mp3]	jlpt-n4
+答え	answer, reply, response	答[こた]え	Noun	answer, solution, result	[sound:答え.mp3]	jlpt-n1 jlpt-n4
+昼休み	lunch break, noon recess, noon rest period	昼休[ひるやす]み	Noun, Adverb 			jlpt-n4
+二階建て	two-storied building	二階建[にかいだ]て	Noun			jlpt-n4
+お祝い	congratulation, congratulations, celebration, festival	お 祝[いわ]い	Noun	congratulatory gift, present		jlpt-n4 respectful
+お出でになる	to be	おいでになる	"Expressions , Godan verb with 'ru' ending"	to come; to go		jlpt-n1 jlpt-n4 respectful usually_kana
+ビル	multi-floor building, multi-storey building	ビル	Noun			jlpt-n4
+お祭り	festival, feast, carnival, matsuri	お 祭[まつ]り	Noun			jlpt-n4 polite
+アルバイト	part-time job, side job	アルバイト	Noun, Suru verb, Intransitive verb	part-time worker		jlpt-n4
+端	edge, tip, end	端[つま]	Noun	gable wall; gable		jlpt-n4
+展覧会	exhibition	展覧会[てんらんかい]	Noun			jlpt-n4
+場合	case, occasion, situation, circumstances	場合[ばあい]	Noun		[sound:場合.mp3]	jlpt-n4
