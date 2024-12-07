@@ -11,7 +11,7 @@ class BookManagement:
         self.dictionary = {}
         self._add_books()
 
-    def get_dictionary(self):
+    def _get_dictionary(self):
         return self.dictionary
 
     def _save_dic_to_file(self):
@@ -23,7 +23,9 @@ class BookManagement:
         with open('../dictionary_files/book_dictionary.txt', 'r', encoding='utf-8') as file:
             for line in file:
                 parts = line.strip().split("|")
-                self.dictionary[parts[0]] = parts[1]
+                cleaned_part = parts[1].replace("[", "").replace("]", "").replace("'", "")
+                sentence_array = cleaned_part.split(", ")
+                self.dictionary[parts[0]] = sentence_array
 
     def _add_book(self, book):
         self._books_added_to_dic(book)
@@ -32,7 +34,7 @@ class BookManagement:
                 sentences = re.split(r'(?<=[。！？])|\n', line)                    # Check for matches in each sentence
                 for sentence in sentences:
                     sentence = sentence.replace("\u3000", "")
-                    sentence_composition = sudachipi.sentence_breakdown(sentence)
+                    sentence_composition = sudachipi.sentence_breakdown()
                     if sentence_composition.get_all_dict_forms():
                         for word in sentence_composition.get_all_dict_forms():
                             if word in self.dictionary:

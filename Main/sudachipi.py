@@ -5,12 +5,16 @@ from sudachipy.dictionary import Dictionary
 
 class sentence_breakdown:
 
-    def __init__(self, sentence):
-        self.sentence = sentence
+    def __init__(self):
+        self.sentence = None
         self.tokenizer_obj = Dictionary().create()
         self.mode = tokenizer.Tokenizer.SplitMode.C
-        self.tokens = self.tokenizer_obj.tokenize(self.sentence, self.mode)
+        self.tokens = None
         self.search_word = None
+
+    def set_sentence(self, sentence):
+        self.sentence = sentence
+        self.tokens = self.tokenizer_obj.tokenize(self.sentence, self.mode)
 
     def get_all_dict_forms(self):
         # Filter tokens that are NOT particles and NOT punctuation and return their dictionary forms
@@ -38,7 +42,7 @@ class sentence_breakdown:
 
 if __name__ == "__main__":
     sentence = "私は猫が好きです。"
-    breakdown = sentence_breakdown(sentence)
+    breakdown = sentence_breakdown()
     print(breakdown.get_all_dict_forms())
     breakdown.set_search_word("猫")
     print(breakdown.get_dict_form())

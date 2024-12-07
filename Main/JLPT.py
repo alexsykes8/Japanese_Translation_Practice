@@ -7,6 +7,8 @@ class JLPT:
         self.raw_directory = ''
         self.directory = ''
 
+
+    ## this should only be called if you want to reformat the raw txt files
     def format(self):
         with open(self.raw_directory, 'r', encoding='utf-8') as file:
             lines = file.readlines()

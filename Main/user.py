@@ -46,11 +46,26 @@ class user:
         self.JLPT_lists.set_user_level(self.user_level)
         self.JLPT_lists.initialise()
 
-        ##TODO create a function in list_management that will calculate the score of a sentence
-
         search_word = input("Enter a word to search for, q to quit: ")
         while (search_word != "q"):
-            pass
+            sentences = self.sentence_dictionary.search_dic(search_word)
+            if sentences is None:
+                print("Word not found")
+                break
+            scored_sentences = []
+            for sentence in sentences:
+                JLPT_score = self.JLPT_lists.calculate_JLPT_score(sentence)
+                temp = []
+                temp.append(sentence)
+                temp.append(JLPT_score[0])  # JLPT score
+                temp.append(JLPT_score[1])  # Extra known words
+                temp.append(JLPT_score[2])  # Number of words
+                scored_sentences.append(temp)
+            print(scored_sentences)
+            ##TODO for each sentence, calculate the JLPT score
+            ##TODO add the score for the extra known words
+            ##TODO normalise the score
+            search_word = input("Enter a word to search for, q to quit: ")
 
     def _add_user_to_db(self):
         connection = sqlite3.connect("../user_files/users.db")

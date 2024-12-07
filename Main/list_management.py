@@ -3,6 +3,8 @@ from Main.JLPT_N2 import JLPT_N2
 from Main.JLPT_N3 import JLPT_N3
 from Main.JLPT_N4 import JLPT_N4
 from Main.JLPT_N5 import JLPT_N5
+from Main.sudachipi import sentence_breakdown
+
 
 # Given a word, will check the JLPT lists that the user knows
 # Will eventually be used to find the JLPT composition of sentences
@@ -15,49 +17,39 @@ class list_management:
         self.N2 = None
         self.N1 = None
         self.user_level = None
-        self.search_word = None
+        self.sentence_breakdown = sentence_breakdown()
+        self.score_distribution = None
 
     def set_user_level(self, level):
         self.user_level = level
+        if self.user_level == "N5":
+            self.score_distribution = [5,-1,-2,-3,-4]
+        elif self.user_level == "N4":
+            self.score_distribution = [4,5,-1,-2,-3]
+        elif self.user_level == "N3":
+            self.score_distribution = [3,4,5,-1,-2]
+        elif self.user_level == "N2":
+            self.score_distribution = [2,3,4,5,-1]
+        elif self.user_level == "N1":
+            self.score_distribution = [1,2,3,4,5]
 
     def initialise(self):
 
         self.N5 = JLPT_N5()
-        self.N5.format()
         self.N5.create_dic()
 
-        if self.user_level == "N5":
-            return
-
         self.N4 = JLPT_N4()
-        self.N4.format()
         self.N4.create_dic()
 
-        if self.user_level == "N4":
-            return
-
         self.N3 = JLPT_N3()
-        self.N3.format()
         self.N3.create_dic()
 
-        if self.user_level == "N3":
-            return
-
         self.N2 = JLPT_N2()
-        self.N2.format()
         self.N2.create_dic()
 
-        if self.user_level == "N2":
-            return
-
         self.N1 = JLPT_N1()
-        self.N1.format()
         self.N1.create_dic()
 
-        if self.user_level == "N1":
-            return
-
-        print("Could not initialise JLPT lists.")
         return
 
     def get_JLPT_level(self):
@@ -89,34 +81,54 @@ class list_management:
         return None
 
 
-    def set_search_word(self, word):
-        self.search_word = word
 
 
-    def search_lists(self):
-        result = self.N5.search_dic(self.search_word)
+    def search_lists(self, word):
+        result = self.N5.search_dic(word)
 
-        if self.user_level == "N5" or result != None:
-            return result
+        if result != None:
+            return result, "N5"
 
-        result = self.N4.search_dic(self.search_word)
+        result = self.N4.search_dic(word)
 
-        if self.user_level == "N4" or result != None:
-            return result
+        if result != None:
+            return result, "N4"
 
-        result = self.N3.search_dic(self.search_word)
+        result = self.N3.search_dic(word)
 
-        if self.user_level == "N3" or result != None:
-            return result
+        if result != None:
+            return result,  "N3"
 
-        result = self.N2.search_dic(self.search_word)
+        result = self.N2.search_dic(word)
 
-        if self.user_level == "N2" or result != None:
-            return result
+        if result != None:
+            return result, "N2"
 
-        result = self.N1.search_dic(self.search_word)
+        result = self.N1.search_dic(word)
 
-        if self.user_level == "N1" or result != None:
-            return result
+        if result != None:
+            return result,  "N1"
 
         return None
+
+    def calculate_JLPT_score(self, sentence):
+        score = 0
+        non_JLPT_words = []
+        self.sentence_breakdown.set_sentence(sentence)
+        word_list = self.sentence_breakdown.get_all_dict_forms()
+        for word in word_list:
+            result = self.search_lists(word)
+            if result == None:
+                non_JLPT_words.append(word)
+            elif result[1] == "N5":
+                score += self.score_distribution[0]
+            elif result[1] == "N4":
+                score += self.score_distribution[1]
+            elif result[1] == "N3":
+                score += self.score_distribution[2]
+            elif result[1] == "N2":
+                score += self.score_distribution[3]
+            elif result[1] == "N1":
+                score += self.score_distribution[4]
+        ##TODO make a new class to handle all this. You also need to get a dictionary for all the words the user won't know due to their JLPT level
+        return score, non_JLPT_words, len(word_list)

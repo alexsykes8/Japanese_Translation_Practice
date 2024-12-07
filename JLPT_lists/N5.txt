@@ -531,3 +531,7 @@
 コップ|glass (drinking vessel), tumbler
 幾つ|how many
 黒|black
+ある|to be (usu. of inanimate objects), to exist, to live
+この|this
+だ|is, are, am
+する|to do
