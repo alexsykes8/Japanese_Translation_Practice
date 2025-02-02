@@ -112,7 +112,7 @@ class list_management:
         return None
 
     def calculate_JLPT_score(self, sentence):
-        score = 0
+        JLPT_distribution = [0,0,0,0,0]
         non_JLPT_words = []
         self.sentence_breakdown.set_sentence(sentence)
         word_list = self.sentence_breakdown.get_all_dict_forms()
@@ -121,14 +121,17 @@ class list_management:
             if result == None:
                 non_JLPT_words.append(word)
             elif result[1] == "N5":
-                score += self.score_distribution[0]
+                JLPT_distribution[0] += 1
             elif result[1] == "N4":
-                score += self.score_distribution[1]
+                JLPT_distribution[1] += 1
             elif result[1] == "N3":
-                score += self.score_distribution[2]
+                JLPT_distribution[2] += 1
             elif result[1] == "N2":
-                score += self.score_distribution[3]
+                JLPT_distribution[3] += 1
             elif result[1] == "N1":
-                score += self.score_distribution[4]
+                JLPT_distribution[4] += 1
+        for i in range(5):
+            JLPT_distribution[i] = JLPT_distribution[i] / len(word_list)
+
         ##TODO make a new class to handle all this. You also need to get a dictionary for all the words the user won't know due to their JLPT level
-        return score, non_JLPT_words, len(word_list)
+        return JLPT_distribution, non_JLPT_words, len(word_list)

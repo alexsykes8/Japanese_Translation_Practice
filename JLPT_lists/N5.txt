@@ -535,3 +535,4 @@
 この|this
 だ|is, are, am
 する|to do
+それ|that

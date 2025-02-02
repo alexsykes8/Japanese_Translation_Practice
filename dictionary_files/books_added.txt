@@ -1,4 +1,5 @@
 ../book_files\にいさんと妹.txt
+../book_files\ハリー・ポッターと賢者の石.txt
 ../book_files\新島先生を憶う.txt
 ../book_files\新島繁著『社会運動思想史』書評.txt
 ../book_files\新潟の酒.txt

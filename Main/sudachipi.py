@@ -21,6 +21,8 @@ class sentence_breakdown:
         dict_forms = [
             token.dictionary_form()
             for token in self.tokens
+            if token is not None  # Ensure token is not None
+               and token.part_of_speech() is not None  # Ensure part_of_speech is not None
             if '助詞' not in token.part_of_speech() and '補助記号' not in token.part_of_speech()
         ]
         return dict_forms

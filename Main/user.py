@@ -2,6 +2,7 @@ import sqlite3
 
 from Main.book_management import BookManagement
 from Main.list_management import list_management
+from Main.wordsearch import WordSearch
 
 
 class user:
@@ -9,8 +10,8 @@ class user:
         self.user_name = None
         self.user_level = None
         self.known_words = []
-        self.sentence_dictionary = BookManagement()
         self.JLPT_lists = list_management()
+        self.sentence_dictionary = BookManagement()
 
 
     def _create_user(self, name, level):
@@ -46,26 +47,11 @@ class user:
         self.JLPT_lists.set_user_level(self.user_level)
         self.JLPT_lists.initialise()
 
-        search_word = input("Enter a word to search for, q to quit: ")
-        while (search_word != "q"):
-            sentences = self.sentence_dictionary.search_dic(search_word)
-            if sentences is None:
-                print("Word not found")
-                break
-            scored_sentences = []
-            for sentence in sentences:
-                JLPT_score = self.JLPT_lists.calculate_JLPT_score(sentence)
-                temp = []
-                temp.append(sentence)
-                temp.append(JLPT_score[0])  # JLPT score
-                temp.append(JLPT_score[1])  # Extra known words
-                temp.append(JLPT_score[2])  # Number of words
-                scored_sentences.append(temp)
-            print(scored_sentences)
-            ##TODO for each sentence, calculate the JLPT score
-            ##TODO add the score for the extra known words
-            ##TODO normalise the score
-            search_word = input("Enter a word to search for, q to quit: ")
+        word_searcher = WordSearch(self)
+        word_searcher.search()
+
+        connection.close()
+
 
     def _add_user_to_db(self):
         connection = sqlite3.connect("../user_files/users.db")

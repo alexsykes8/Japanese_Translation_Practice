@@ -1,5 +1,6 @@
 import os
 import re
+from turtledemo.clock import setup
 
 import sudachipi
 from Main.sudachipi import sentence_breakdown
@@ -35,6 +36,7 @@ class BookManagement:
                 for sentence in sentences:
                     sentence = sentence.replace("\u3000", "")
                     sentence_composition = sudachipi.sentence_breakdown()
+                    sentence_composition.set_sentence(sentence)
                     if sentence_composition.get_all_dict_forms():
                         for word in sentence_composition.get_all_dict_forms():
                             if word in self.dictionary:
@@ -71,4 +73,4 @@ class BookManagement:
 
 if __name__ == "__main__":
     book_management = BookManagement()
-    book_management.add_books()
+    book_management._add_books()
