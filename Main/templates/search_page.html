@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search Page</title>
+</head>
+    <body>
+        <h1>Search Page</h1>
+        {% if error %}
+            <p style="color: #ff0000;">{{ error }}</p>
+        {% endif %}
+        <form method="POST" action="{{ url_for('search_page') }}">
+            <input type="text" name="word" placeholder="Enter a word" required>
+            <button type="submit">Search</button>
+        </form>
+
+
+    </body>
+</html>

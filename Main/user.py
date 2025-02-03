@@ -5,7 +5,7 @@ from Main.list_management import list_management
 from Main.wordsearch import WordSearch
 
 
-class user:
+class User:
     def __init__(self):
         self.user_name = None
         self.user_level = None
@@ -27,18 +27,21 @@ class user:
         self.user_level = level
         self._add_user_to_db()
 
+    def create_user(self):
+        user_name = input("What is your username? ")
+        level = input("What is your JLPT level? (N5, N4, N3, N2, N1): ")
+        while level not in ["N5", "N4", "N3", "N2", "N1"]:
+            level = input("Invalid level. Please enter a valid JLPT level (N5, N4, N3, N2, N1): ")
+        self._create_user(user_name, level)
+
     def login(self, user_name):
         connection = sqlite3.connect("../user_files/users.db")
         cursor = connection.cursor()
         cursor.execute('SELECT jlptlevel FROM users WHERE username = ?', (user_name,))
         rows = cursor.fetchall()
         if len(rows) == 0:
-            make_new = input("User not found. Would you like to create a new user? (y/n): ")
-            if make_new.lower() == "y":
-                level = input("What is your JLPT level? (N5, N4, N3, N2, N1): ")
-                while level not in ["N5", "N4", "N3", "N2", "N1"]:
-                    level = input("Invalid level. Please enter a valid JLPT level (N5, N4, N3, N2, N1): ")
-            self._create_user(user_name, level)
+            print("User not found.")
+            return None
         else:
             self.user_name = user_name
             self.user_level = rows[0][0]
@@ -47,10 +50,16 @@ class user:
         self.JLPT_lists.set_user_level(self.user_level)
         self.JLPT_lists.initialise()
 
-        word_searcher = WordSearch(self)
-        word_searcher.search()
+
 
         connection.close()
+
+        return self
+
+    def search_for_word(self, word):
+        word_searcher = WordSearch(self)
+        print(word)
+        return (word_searcher.search(word))
 
 
     def _add_user_to_db(self):

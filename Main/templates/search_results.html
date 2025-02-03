@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sentence result:</title>
+</head>
+<body>
+    <h3>{{ definition }}</h3>
+    <h4>{{ sentences }}</h4>
+
+    <form method="POST" action="{{ url_for('search_page') }}">
+    <button type="submit" name="action" value="next_sentence">Next Sentence</button>
+    <button type="submit" name="action" value="return">return</button>
+    </form>
+</body>
+</html>
