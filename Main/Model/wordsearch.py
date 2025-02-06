@@ -1,3 +1,5 @@
+import os
+
 import requests
 from lxml import etree
 import sqlite3
@@ -6,6 +8,7 @@ import sqlite3
 class WordSearch:
     def __init__(self, user):
         self.user = user
+
 
     def search(self, search_word):
 
@@ -68,27 +71,12 @@ class WordSearch:
         else:
             return ["No definition found."]
 
-    def get_edict_definition(self):
-        # Parse the XML file
-        tree = etree.parse("../dictionary_files/JMdict_e.xml")  # Replace with your actual file name
-        # Example: Search for all entries with a specific word (kanji)
-        kanji_to_search = "犬"
-
-        # Use XPath to find all entries that contain a specific kanji
-        entries = tree.xpath(f"//entry[k_ele/keb='{kanji_to_search}']")
-
-        # Print the results
-        for entry in entries:
-            word = entry.xpath("k_ele/keb/text()")[0]
-            reading = entry.xpath("r_ele/reb/text()")[0]
-            glosses = entry.xpath("sense/gloss/text()")
-
-            print(f"Word: {word}, Reading: {reading}, Meanings: {', '.join(glosses)}")
-
 
     def create_db(self):
         # Connect to SQLite (or create the file if it doesn't exist)
-        conn = sqlite3.connect('../dictionary_files/edict.db')
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        user_db_path = os.path.join(script_dir, "../dictionary_files/edict.db")
+        conn = sqlite3.connect(user_db_path)
         cursor = conn.cursor()
 
         # Create tables
@@ -116,35 +104,4 @@ class WordSearch:
         )''')
 
         return conn, cursor
-
-    def parse_and_insert_xml(self,file_path, cursor):
-        # Parse the XML file
-        tree = etree.parse(file_path)
-        root = tree.getroot()
-
-        for entry in root.findall('entry'):
-            # Extract Kanji
-            kanji_elem = entry.find('k_ele/keb')
-            kanji = kanji_elem.text if kanji_elem is not None else None
-            if kanji:
-                # Insert kanji into the kanji table
-                cursor.execute('INSERT INTO kanji (kanji) VALUES (?)', (kanji,))
-                kanji_id = cursor.lastrowid
-
-                # Extract Readings
-                for reb_elem in entry.findall('r_ele/reb'):
-                    reading = reb_elem.text
-                    if reading:
-                        # Insert reading into the reading table
-                        cursor.execute('INSERT INTO reading (kanji_id, reading) VALUES (?, ?)', (kanji_id, reading))
-
-                # Extract Senses
-                for sense_elem in entry.findall('sense'):
-                    pos_elem = sense_elem.find('pos')
-                    glosses = [gloss.text for gloss in sense_elem.findall('gloss')]
-                    pos = pos_elem.text if pos_elem is not None else "Unknown"
-
-                    # Insert senses into the sense table
-                    for gloss in glosses:
-                        cursor.execute('INSERT INTO sense (kanji_id, pos, gloss) VALUES (?, ?, ?)', (kanji_id, pos, gloss))
 

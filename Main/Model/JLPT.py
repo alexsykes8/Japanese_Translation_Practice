@@ -1,11 +1,17 @@
 import re
+import os
 
 class JLPT:
+
+    """
+    This class is the parent class for all JLPT levels. It represents all of the JLPT words associated with that level
+    """
 
     def __init__(self):
         self.word_list = {}
         self.raw_directory = ''
         self.directory = ''
+        self.script_dir = os.path.dirname(os.path.abspath(__file__))
 
 
     ## this should only be called if you want to reformat the raw txt files
@@ -16,7 +22,12 @@ class JLPT:
         with open(self.directory, 'w', encoding='utf-8') as file:
             file.write("\n".join(processed_lines))
 
+
     def process_line(self,line):
+        """
+        :param line: takes a line from the raw txt file
+        :return: returns the word and meaning in the format "word|meaning"
+        """
         parts = line.strip().split("\t")
         if len(parts) >= 3:
             word = re.sub(r'\[.*?\]', '', parts[0])
@@ -25,7 +36,12 @@ class JLPT:
         else:
             return line
 
+
     def create_dic(self):
+        """
+        This function creates a dictionary of words and their meanings from a formatted dictionary text file
+        :return: returns the dictionary of words to meanings
+        """
         with open(self.directory, 'r', encoding='utf-8') as file:
             lines = file.readlines()
         for line in lines:
@@ -33,4 +49,9 @@ class JLPT:
             self.word_list[parts[0]] = parts[1]
 
     def search_dic(self, word):
+        """
+        This function searches the dictionary for a word
+        :param word: word to be searched for
+        :return: word's meaning
+        """
         return self.word_list.get(word)

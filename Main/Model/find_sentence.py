@@ -4,7 +4,8 @@ import re
 class SearchFiles:
 
     def __init__(self, search_term):
-        self.directory_path = "../book_files"
+        self.script_dir = os.path.dirname(os.path.abspath(__file__))
+        self.directory_path = self.user_db_path = os.path.join(self.script_dir, "../book_files")
         self.search_term = search_term
         self.pattern = re.compile(re.escape(search_term), re.UNICODE)
 

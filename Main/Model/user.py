@@ -1,8 +1,9 @@
 import sqlite3
+import os
 
-from Main.book_management import BookManagement
-from Main.list_management import list_management
-from Main.wordsearch import WordSearch
+from Main.Model.book_management import BookManagement
+from Main.Model.list_management import list_management
+from Main.Model.wordsearch import WordSearch
 
 
 class User:
@@ -12,10 +13,12 @@ class User:
         self.known_words = []
         self.JLPT_lists = list_management()
         self.sentence_dictionary = BookManagement()
+        self.script_dir = os.path.dirname(os.path.abspath(__file__))
+        self.user_db_path = os.path.join(self.script_dir, "../../user_files/users.db")
 
 
     def _create_user(self, name, level):
-        connection = sqlite3.connect("../user_files/users.db")
+        connection = sqlite3.connect(self.user_db_path)
         cursor = connection.cursor()
         cursor.execute('SELECT id FROM users WHERE username = ?', (name,))
         existing_user = cursor.fetchone()
@@ -35,7 +38,7 @@ class User:
         self._create_user(user_name, level)
 
     def login(self, user_name):
-        connection = sqlite3.connect("../user_files/users.db")
+        connection = sqlite3.connect(self.user_db_path)
         cursor = connection.cursor()
         cursor.execute('SELECT jlptlevel FROM users WHERE username = ?', (user_name,))
         rows = cursor.fetchall()
@@ -63,7 +66,7 @@ class User:
 
 
     def _add_user_to_db(self):
-        connection = sqlite3.connect("../user_files/users.db")
+        connection = sqlite3.connect(self.user_db_path)
         cursor = connection.cursor()
         cursor.execute('''CREATE TABLE IF NOT EXISTS users (id INTEGER PRIMARY KEY, username TEXT, jlptlevel TEXT)''')
         cursor.execute('''CREATE TABLE IF NOT EXISTS words (id INTEGER PRIMARY KEY, word TEXT)''')
@@ -77,7 +80,7 @@ class User:
 
     def add_known_word(self, word):
 
-        connection = sqlite3.connect("../user_files/users.db")
+        connection = sqlite3.connect(self.user_db_path)
         cursor = connection.cursor()
 
         cursor.execute('SELECT id FROM words WHERE word = ?', (word,))
@@ -99,7 +102,7 @@ class User:
         connection.close()
 
     def _load_known_words(self):
-        connection = sqlite3.connect("../user_files/users.db")
+        connection = sqlite3.connect(self.user_db_path)
         cursor = connection.cursor()
 
         cursor.execute('SELECT id FROM users WHERE username = ?', (self.user_name,))

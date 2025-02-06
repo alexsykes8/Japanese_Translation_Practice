@@ -1,5 +1,5 @@
 from flask import Flask, render_template, redirect, url_for, request, session
-from user import User
+from Main.Model.user import User
 
 app = Flask(__name__)
 app.secret_key = 'tiger'

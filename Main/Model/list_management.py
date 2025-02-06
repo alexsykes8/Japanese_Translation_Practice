@@ -1,14 +1,14 @@
-from Main.JLPT_N1 import JLPT_N1
-from Main.JLPT_N2 import JLPT_N2
-from Main.JLPT_N3 import JLPT_N3
-from Main.JLPT_N4 import JLPT_N4
-from Main.JLPT_N5 import JLPT_N5
-from Main.sudachipi import sentence_breakdown
+from Main.Model.JLPT_N1 import JLPT_N1
+from Main.Model.JLPT_N2 import JLPT_N2
+from Main.Model.JLPT_N3 import JLPT_N3
+from Main.Model.JLPT_N4 import JLPT_N4
+from Main.Model.JLPT_N5 import JLPT_N5
+from Main.Model.sudachipi import sentence_breakdown
 
 
-# Given a word, will check the JLPT lists that the user knows
-# Will eventually be used to find the JLPT composition of sentences
-
+"""
+    This word is used to manage the lists of words for each JLPT level. It is used to search for words in the lists and to calculate the JLPT score of a sentence.
+"""
 class list_management:
     def __init__(self):
         self.N5 = None
@@ -52,38 +52,12 @@ class list_management:
 
         return
 
-    def get_JLPT_level(self):
-        result = self.N5.search_dic(self.search_word)
-
-        if result != None:
-            return "N5"
-
-        result = self.N4.search_dic(self.search_word)
-
-        if result != None:
-            return "N4"
-
-        result = self.N3.search_dic(self.search_word)
-
-        if result != None:
-            return "N3"
-
-        result = self.N2.search_dic(self.search_word)
-
-        if result != None:
-            return "N2"
-
-        result = self.N1.search_dic(self.search_word)
-
-        if result != None:
-            return "N1"
-
-        return None
-
-
-
-
     def search_lists(self, word):
+        """
+        This function searches for a word in the JLPT lists.
+        :param word: the word to get the level of
+        :return: the word and its level. none if it was not in a JLPT list
+        """
         result = self.N5.search_dic(word)
 
         if result != None:
@@ -112,6 +86,14 @@ class list_management:
         return None
 
     def calculate_JLPT_score(self, sentence):
+        """
+        This function calculates the JLPT score of a sentence.
+        The JLPT score is a list of 5 numbers, each representing the number of words
+        in the sentence that are from a particular JLPT level.
+        :param sentence: the sentence to calculate the JLPT score of
+        :return: analysis of the sentence: number of words from each JLPT level [N5, N4, N3, N2, N1],
+         list of words that are not in a JLPT list, number of words in the sentence
+        """
         JLPT_distribution = [0,0,0,0,0]
         non_JLPT_words = []
         self.sentence_breakdown.set_sentence(sentence)
@@ -133,5 +115,4 @@ class list_management:
         for i in range(5):
             JLPT_distribution[i] = JLPT_distribution[i] / len(word_list)
 
-        ##TODO make a new class to handle all this. You also need to get a dictionary for all the words the user won't know due to their JLPT level
         return JLPT_distribution, non_JLPT_words, len(word_list)

@@ -1,5 +1,5 @@
-from Main.user import User
-from list_management import list_management
+from Main.Model.user import User
+
 
 def main():
     currentUser = User()
